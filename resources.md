@@ -2,8 +2,8 @@
 layout: page
 title: Resources
 nav_order: 2
-description: Database Management Systems (COSI 127B)
-banner_image: /COSI-127B/assets/css/resources.jpg
+description: Advanced Data Systems (COSI 167A)
+banner_image: /COSI-167A/assets/css/resources.jpg
 banner_heading: "Text Books"
 banner_description: "Textbook Wisdom Awaits"
 ---

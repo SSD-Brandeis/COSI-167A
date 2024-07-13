@@ -2,8 +2,8 @@
 layout: page
 title: Policies
 nav_order: 3
-description: Database Management Systems (COSI 127B)
-banner_image: /COSI-127B/assets/css/policy.jpg
+description: Advanced Data Systems (COSI 167A)
+banner_image: /COSI-167A/assets/css/policy.jpg
 banner_heading: "Policies"
 banner_description: ""
 ---

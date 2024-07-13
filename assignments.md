@@ -2,8 +2,8 @@
 layout: page
 title: Assignments
 nav_order: 4
-description: Database Management Systems (COSI 127B)
-banner_image: /COSI-127B/assets/css/assignment.jpg
+description: Advanced Data Systems (COSI 167A)
+banner_image: /COSI-167A/assets/css/assignment.jpg
 banner_heading: "Assignments"
 banner_description: ""
 ---

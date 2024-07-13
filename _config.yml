@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COSI 127B
-description: Database Management Systems
-baseurl: "" # the subpath of your site, e.g. /blog
+title: COSI 167A
+description: Advanced Data Systems
+baseurl: "/COSI-167A" # the subpath of your site, e.g. /blog
 url: "https://ssd-brandeis.github.io"
 repository: ""
 
