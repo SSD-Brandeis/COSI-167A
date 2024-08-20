@@ -119,8 +119,8 @@ nav_external_links:
     url: /
   - title: Schedule
     url: /schedule/
-  - title: Assignments
-    url: /assignments/
+  - title: Projects
+    url: /projects/
 
 # Back to top link
 back_to_top: true
