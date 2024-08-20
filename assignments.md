@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Projects
+title: Assignments
 nav_order: 4
 description: Advanced Data Systems (COSI 167A)
 banner_image: /COSI-167A/assets/css/assignment.jpg
-banner_heading: "Projects"
+banner_heading: "Assignments"
 banner_description: ""
 ---
 
-<div class="projects">
+<div class="assignments">
     <div class="written">
         <h4><strong>Written Assignments</strong></h4>
         <table>
