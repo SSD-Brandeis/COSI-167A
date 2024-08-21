@@ -6,148 +6,164 @@ title: ""
 : **Lecture**
     : **Readings**
 
-Thu, Jan 11
-: [**Lecture 1:** Introduction](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrctzbztt4m3yk){:target="_blank"}
-    : - Textbook, Chapter 1
+Fri, Aug 30
+: [**Class 1:** Introduction to Data Systems and COSI 127A](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 1 -->
 
-Tue, Jan 16
-: [**Lecture 2:** DBMS Architecture](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrguzgmnmx76df){:target="_blank"} <br><br> [**Released Project 1.1**{: .label .label-grey}](/COSI-127B/assignments)
-    : - ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, Chapters 1, 2, 3
-- ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, Chapter 1
+Tue, Sep 3
+: [**Class 2:** Data Systems Architectures Essentials - Part 1](#){:target="_blank"} <!-- <br><br> [**Released Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) -->
+    : __[P]__ ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2007 <br>
+[B] ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2012
 
-Thu, Jan 18
-: [**Lecture 3:** ER Model](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjphqr0th13r8){:target="_blank"} <br><br> [**Released Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
-    : - Textbook, Chapter 2
+Fri, Sep 6
+: [**Class 3:** Data Systems Architectures Essentials - Part 2](#){:target="_blank"} <!-- <br><br> [**Released Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) -->
+    : __[P]__ ["The Seattle Report on Database Research"](https://dl.acm.org/doi/abs/10.1145/3385658.3385668){:target="_blank"}, *SIGMOD Record*, 2022 <br>
+[B] ["Massively Parallel Databases and MapReduce Systems"](https://www.cut.ac.cy/digitalAssets/122/122275_1002013-FnTDB-Survey.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2013
 
-Tue, Jan 23
-: [**Lecture 4:** Relational Model](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrqwav2x89z654){:target="_blank"}
-    : - Textbook, Chapter 3
+Tue, Sep 10
+: [**Class 4:** Row-Stores vs. Column-Stores](#){:target="_blank"}
+    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br>
+[B] ["C-Store: A Column-oriented DBMS"](https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf){:target="_blank"}, *VLDB*, 2005
 
-Thu, Jan 25
-: [**Lecture 5:** Relational Algebra](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrtrsr1pqp04ig){:target="_blank"} <br><br> [**Released Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
-    : - Textbook, Chapter 4.1, 4.2
+Fri, Sep 13
+: [**Class 5:** Adaptive & Hybrid Layouts](#){:target="_blank"}
+    : __[P]__ ["Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads"](https://db.cs.cmu.edu/papers/2016/arulraj-sigmod2016.pdf){:target="_blank"}, *SIGMOD*, 2016 <br>
+[B] ["H2O: A Hands-free Adaptive Store"](https://stratos.seas.harvard.edu/sites/scholar.harvard.edu/files/stratos/files/h2o.pdf){:target="_blank"}, *SIGMOD*, 2014
 
-Sat, Jan 27
-: [**Due Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Sat, Jan 27
+: [**Due Written Assignment 1**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Tue, Jan 30
-: [**Lecture 6:** SQL I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls0x7aahga01b3){:target="_blank"}
-    : - Textbook, Chapter 5.1-5.5
+Tue, Sep 17
+: [**Class 6:** Class Project Overview](){:target="_blank"}
+    : __[P]__ ["Data Structures for Data-Intensive Applications"](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2023  <br>
+[B] ["The Log-Structured Merge-Tree (LSM-Tree)"](https://www.cs.umb.edu/~poneil/lsmtree.pdf){:target="_blank"}, *Acta Informatica*, 1996
 
-Thu, Feb 01
-: [**Lecture 7:** SQL II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3s3andoj36el){:target="_blank"} <br><br> [**Released Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
-    : - Textbook, Chapter 5.1-5.5
+Fri, Sep 20
+: [**Class 7:** ](LSM Basics - Part 1){:target="_blank"}
+    : __[P]__ ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/pdf/1812.07527){:target="_blank"}, *VLDB Journal*, 2019 <br>
+[B] ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563){:target="_blank"}, *SIGMOD*, 2022
 
-Sat, Feb 03
-: [**Due Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Sat, Sep 24
+: [**Due Written Assignment 2**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Tue, Feb 06
-: [**Lecture 8:** Functional Dependencies](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsaxcj1u7vw5wc){:target="_blank"}
-    : - Textbook, Chapter 19.1-19.3
+Tue, Sep 24
+: [**Class 8:** __Guest Class__ on LSM Memory Buffer: Shubham Kaushik](){:target="_blank"}
+    : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br>
+[B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
-Thu, Feb 08
-: [**Lecture 9:** Normalization](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsdsb0e2j8n6w8){:target="_blank"} <br><br> [**Due Project 1.1**{: .label .label-grey}](/COSI-127B/assignments) [**Released Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments)
-    : - Textbook, Chapter 19.4-19.7
+Fri, Sep 27
+: [**Class 9:** LSM Basics - Part 2](){:target="_blank"}
+    : __[P]__ ["Monkey: Optimal Navigable Key-Value Store"](https://nivdayan.github.io/monkeykeyvaluestore.pdf){:target="_blank"}, *SIGMOD*, 2017 <br>
+[B] ["The LSM Design Space and its Read Optimizations"](){:target="_blank"}, *ICDE*, 2023
 
-Sat, Feb 10
-: [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Sat, Feb 10
+: [**Due Written Assignment 3**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Tue, Feb 13
-: **Snow Day**{: .label .label-white} <br><br> [**Released Project 1.2**{: .label .label-grey}](/COSI-127B/assignments)
+Tue, Oct 1
+: [**Class 10:** LSM Compactions](){:target="_blank"}
+    : __[P]__ ["Constructing and Analyzing the LSM Compaction Design Space"](https://subhadeep.net/assets/fulltext/Constructing_and_Analyzing_the_LSM_Compaction_Design_Space.pdf){:target="_blank"}, *VLDB*, 2021 <br>
+[B] ["Compactionary: A Dictionary for LSM Compactions"](https://subhadeep.net/assets/fulltext/Compactionary-A_Dictionary_for_LSM_Compactions.pdf){:target="_blank"}, *SIGMOD*, 2022
 
-Thu, Feb 15
-: [**Lecture 10:** File Organization & Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsnse106nl05y4){:target="_blank"}
-    : - Textbook, Chapter 8 & 9.1, 9.5-9.7
-- ["Data page layouts for relational databases on deep memory hierarchies"](https://link.springer.com/article/10.1007%2Fs00778-002-0074-9), The VLDB Journal, 2002 (Sections 1, 2, 3, 4)
+Fri, Oct 4
+: **Rosh Hashanah -- No Class**{: .label .label-yellow}
 
-Tue, Feb 20
-: **February Break**{: .label .label-yellow}
+Tue, Oct 8
+: [**Class 11:** __Guest Lecture__ on LSM Filters: Zichen Zhu](){:target="_blank"}
+    <!-- : __[P]__ [""](){:target="_blank"}, **, 20 <br>
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Thu, Feb 22
-: **February Break**{: .label .label-yellow}
+Fri, Oct 11
+: **Yom Kippur -- No Class**{: .label .label-yellow}
 
-Mon, Feb 26
-: [**Due Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Mon, Oct 15
+: [**Due Written Assignment 4**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Tue, Feb 27
-: [**Lecture-11:** Storage Layer](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt4xzryggap5ld){:target="_blank"}
-    : - Textbook, Chapter 9.1-9.4
-- ["On Multidimensional Data and Modern Disks"](https://www.usenix.org/legacy/events/fast05/tech/schlosser/schlosser.pdf), FAST 2005 (Sections 1, 2, 3, 4)
-- ["Design Tradeoffs for SSD Performance"](https://www.usenix.org/legacy/events/usenix08/tech/full_papers/agrawal/agrawal_html/index.html), USENIX ATC 2008 (Sections 1, 2, 3)
+Tue, Oct 15
+: [**Class-12:**  __Guest Lecture__ on LSM Robustness: Andy Huynh](){:target="_blank"}
+    <!-- : __[P]__ [""](){:target="_blank"}, **, 20 <br>
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Wed, Feb 28
-: [**Released Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Wed, Oct 18
+: [**Released Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Thu, Feb 29
-: [**Lecture 12:** Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt7sp85b8go4xc){:target="_blank"}
-    : - Textbook, Chapter 8.4 & 8.5
+Fri, Oct 18
+: [**Class 13:** LSM Deletes - Part 1](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 8.4 & 8.5 -->
 
-Fri, Mar 01
-: [**Due Project 1.2**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Fri, Oct 22
+: [**Due Project 1.2**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Tue, Mar 05
-: [**Lecture 13:** Tree Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltexx1jfvj31rk){:target="_blank"}
-    : - Textbook, Chapter 10.1, 10.3-10.8
-: [**Due Written Assignment 5A**{: .label .label-grey}](/COSI-127B/assignments) [**Released Project 1.3**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Fri, Oct 25
+: **MidTerm I Exam**{: .label .label-purple} -->
 
-Thu, Mar 07
-: **MidTerm I Exam**{: .label .label-purple}
+Tue, Oct 22
+: [**Class 14:** LSM Deletes - Part 1](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 11 -->
 
-Tue, Mar 12
-: [**Lecture 14:** Hash Indexing](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltowgvycq1i11){:target="_blank"}
-    : - Textbook, Chapter 11
+Fri, Oct 25
+: [**Class 15:** Introduction to Indexing: Trees & Tries](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 13
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Thu, Mar 14
-: [**Lecture 15:** External Sorting](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltrqjkpsn9e4bd){:target="_blank"}
-    : - Textbook, Chapter 13
-: [**Released Written Assignment 5B**{: .label .label-grey}](/COSI-127B/assignments)
+Tue, Oct 29
+: [**Class 16:** Adaptive Radix Trees __Student Presentation 1__](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 12 & 14.1-14.3
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Tue, Mar 19
-: [**Lecture 16:** Query Processing - I](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltyvtfo72a91tm){:target="_blank"}
-    : - ["More on the Halloween Problem"](https://web.archive.org/web/20070718223542/http://www.noncombatant.org/trove/fitzpatrick-anecdotes.pdf)
-- Textbook, Chapter 12 & 14.1-14.3
-: [**Due Project 1.3**{: .label .label-grey}](/COSI-127B/assignments)
+Fri, Nov 1
+: [**Class 17:** Adaptive Indexing & Cracking __Student Presentation 2__](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 12 & 14.1-14.3
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Thu, Mar 21
-: [**Lecture 17:** Query Processing - II](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1qp47byv33pz){:target="_blank"}
-    : - Textbook, Chapter 14.4.1-14.4.2
-: [**Released Project 2**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Sat, Nov 12
+: [**Due Written Assignment 5B**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Sat, Mar 23
-: [**Due Written Assignment 5B**{: .label .label-grey}](/COSI-127B/assignments)
+Tue, Nov 5
+: [**Class 18:** __Guest Lecture__ on Sortedness-Aware Indexing: Aneesh Raman](){:target="_blank"}
+    <!-- : __[P]__ [""](){:target="_blank"}, **, 20 <br>
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Tue, Mar 26
-: [**Lecture 18:** Query Processing - III](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu8vs1b4day61n){:target="_blank"}
-    : - Textbook, Chapter 14.4.3-14.4.4, 14.6-14.7, Chapter 15
-: [**Released Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Fri, Nov 15
+: **March Break**{: .label .label-yellow} -->
 
-Thu, Mar 28
-: **March Break**{: .label .label-yellow}
+Tue, Nov 8
+: [**Class 19:** Modern Hardware Trends](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 13
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Tue, Apr 02
-: [**Lecture 19:** Concurrency Control](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luiw2jkqrsg5dc){:target="_blank"}
-    : - Textbook, Chapter 16
+Fri, Nov 12
+: [**Class 20:** __Guest Lecture__ on Parametric I/O Model: Tarikul Islam Papon](){:target="_blank"}
+    <!-- : __[P]__ [""](){:target="_blank"}, **, 20 <br>
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Thu, Apr 04
-: [**Lecture 20:** Locking](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lulqzczfudx73k){:target="_blank"}
-    : - Textbook, Chapter 17.1-17.5
-: [**Due Project 2**{: .label .label-grey}](/COSI-127B/assignments)
+<!-- Fri, Apr 05
+: [**Due Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments) -->
 
-Fri, Apr 05
-: [**Due Written Assignment 6**{: .label .label-grey}](/COSI-127B/assignments)
+Tue, Nov 15
+: [**Class 21:** HTAP Systems __Student Presentation 3__](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 12 & 14.1-14.3
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Tue, Apr 09
-: [**Lecture 21:** Logging and Recovery](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lusvxz375xmav){:target="_blank"}
-    : - Textbook, Chapter 18
+Fri, Nov 19
+: [**Class 22:** ML and Systems__Student Presentation 3__](#){:target="_blank"}
+    <!-- : - Textbook, Chapter 12 & 14.1-14.3
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Thu, Apr 11
-: [**Lecture 22:** NoSQL & Introduction to CS 167A](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/luvqmu4jpbm6xq){:target="_blank"}
-    : - ["Constructing and Analyzing the LSM Compaction Design Space"](https://arxiv.org/abs/2202.04522){:target="_blank"}, VLDB Endowment, 2021
-- ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/10.1145/3514221.3522563){:target="_blank"} SIGMOD, 2022
-- ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/abs/1812.07527), VLDB Journal, 2019
+Fri, Nov 22
+: [**Class 23:** __Guest Lecture__ on Relational Memory: Prof. Ju Hyoung Mun](){:target="_blank"}
+    <!-- : __[P]__ [""](){:target="_blank"}, **, 20 <br>
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Tue, Apr 16
-: [**Lecture 23:** Final Thoughts](https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lv2web5ga46r7){:target="_blank"}
+Fri, Nov 26
+: [**Class 24:** __Guest Lecture__ on Self-Designing Storage Engine: Dr. Subarna Chatterjee](){:target="_blank"}
+    <!-- : __[P]__ [""](){:target="_blank"}, **, 20 <br>
+[B] [""](){:target="_blank"}, **, 20 -->
 
-Thu, Apr 18
-: **Midterm II Exam**{: .label .label-purple}
+Tue, Dec 3
+: **Class Project -- Presentations A**{: .label .label-purple}
+
+Fri, Dec 6
+: **Class Project -- Presentations B**{: .label .label-purple}
+
+Fri, Dec 10
+: **Class Project -- Code Review**{: .label .label-purple}
