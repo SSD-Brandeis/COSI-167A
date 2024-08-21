@@ -39,3 +39,8 @@
 .label-grey:not(g) {
   background-color: grey;
 }
+
+.label-student:not(g) {
+  color: $grey-dk-200;
+  background-color: #ff7207;
+}

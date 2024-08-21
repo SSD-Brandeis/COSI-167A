@@ -9,8 +9,8 @@ banner_description: ""
 ---
 
 <div class="assignments">
-    <div class="written">
-        <h4><strong>Written Assignments</strong></h4>
+    <div class="programming">
+        <h2><strong>Project Deadlines</strong></h2>
         <table>
         <thead>
             <tr>
@@ -21,83 +21,83 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 1</a></td>
-            <td>Jan 27, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrjzy4hzhur20h" target="_blank">ER-Model</a></td>
+            <td><a href="#" target="_blank">Project 0</a></td>
+            <td>Feb 8, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank">Project 0 doc</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 2</a></td>
-            <td>Feb 03, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lru2pfqy96f6u7" target="_blank">Relational Algebra</a></td>
+            <td><a href="#" target="_blank">Project 1</a></td>
+            <td>Mar 1, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 3</a></td>
-            <td>Feb 10, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ls3z6yajwkn6en" target="_blank">SQL</a></td>
+            <td><a href="#" target="_blank">Project Proposal</a></td>
+            <td>Mar 21, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 4</a></td>
-            <td>Feb 26, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lse5z0qpyve1l" target="_blank">Normalization</a></td>
+            <td><a href="#" target="_blank">Mid-semester Report</a></td>
+            <td>Apr 4, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank">Report Template</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 5A</a></td>
-            <td>Mar 05, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lt60ian4fmw3en" target="_blank">File Organization</a></td>
+            <td><a href="#" target="_blank">Preliminary Project Report</a></td>
+            <td>Apr 4, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 5B</a></td>
-            <td>Mar 23, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltrynfsz9cd6k" target="_blank">Indexing And Sorting</a></td>
-            </tr>
-            <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Assignment 6</a></td>
-            <td>Apr 05, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu944ja3hs378h" target="_blank">Query Optimization</a></td>
+            <td><a href="#" target="_blank">Final Project Report</a></td>
+            <td>Apr 4, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank"></a></td>
             </tr>
         </tbody>
         </table>
+        <h3><strong>Project 0</strong></h3>
+        <p>A quick dev. project to sharpen C++ skills and to prepare for the upcoming research/dev project.</p>
+        <h3><strong>Project 1</strong></h3>
+        <p>A small-scale implementation project on data systems.</p>
+        <h3><strong>Class Project</strong></h3>
+        <p>Every student should complete a semester-long class project. The students can decide between a systems project and a research project.</p>
+        <h3><strong>Useful Links:</strong></h3>
+        <ul>
+            <li><a href="#">Introduction to Storage and Memory Hierarchy</a> and some <a href="#">example code</a></li>
+            <li><a href="#">Introduction to debugging and performance tools [material developed at Harvard]</a></li>
+            <li><a href="#">Performance monitoring [material developed at Harvard]</a></li>
+            <li><a href="#">TPCH Data and Query generator tool</a></li>
+            <li><a href="https://dl.acm.org/citation.cfm?doid=2588555.2588892">A short summary of how to efficiently code multi-cores</a>(for a more detailed version drop by my office)</li>
+            <li><a href="#">Final project report template</a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="assignments">
+    <div class="written">
+        <h2>System Projects</h2>
+        <p>A system project sharpens your systems skills and provides background on state-of-the-art systems, data structures and algorithms. For a successful systems project you will design and implement a systems component in C or C++, and you will deal with low-level system implementation details like memory allocation and management, cache-aware processing, parallel and concurrent processing and a deeper understanding of read/write performance trade-offs, and performance scalability. <strong>Systems projects can be carried out by one student or a group of two students.</strong><br><br>This year we will have two topics for a systems project.</p>
+        <br>
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Implementation of LSM-Trees</a></li>
+            <br><br>
+            <li><a href="#">Implementation of a Bufferpool</a></li>
+        </ul>
     </div>
     <div class="programming">
-        <h4><strong>Project Assignments</strong></h4>
-        <table>
-        <thead>
-            <tr>
-            <th>Title</th>
-            <th>Due Date</th>
-            <th>Material</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.1</a></td>
-            <td>Feb 8, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrhbcp33naz1tr" target="_blank">Project doc</a></td>
-            </tr>
-            <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.2</a></td>
-            <td>Mar 1, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsl5sjlhgns3h4" target="_blank">Project doc</a></td>
-            </tr>
-            <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 1.3</a></td>
-            <td>Mar 21, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">Project doc</a></td>
-            </tr>
-            <tr>
-            <td><a href="https://www.gradescope.com/courses/655731" target="_blank">Project 2</a></td>
-            <td>Apr 4, 2024 @ 23:59</td>
-            <td><a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1r397jqbg2zz" target="_blank">Project doc</a></td>
-            </tr>
-        </tbody>
-        </table>
-        <h3><strong>Project 1.1</strong></h3>
-        <p>In the first project, you have to design an Entity-Relationship Diagram (ER Diagram) for a movie like application. This application will have a simple user interface that is connected to a MySQL database. More information on the project can be found <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lrhbcp33naz1tr" target="_blank">here</a>. Please go through the document carefully and start it as soon as possible.</p>
-        <h3><strong>Project 1.2</strong></h3>
-        <p>In the first deliverable, you have already submitted an Entity-Relationship Diagram (ER Diagram) for the application, along with a relational schema. For this next deliverable, you will create a simple UI that connects to the back-end (i.e., database). More information on the project can be found  <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lsl5sjlhgns3h4" target="_blank">here</a>. Again, please read the document carefully and start working on it as soon as possible.</p>
-        <h3><strong>Project 1.3</strong></h3>
-        <p>For your final task of Project 1, update your application to execute a series of queries from the front end to the database, displaying the query results in the UI. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lteyll8wewt200" target="_blank">PA_1_3_data.zip</a> file from the Piazza resource page for database setup. A helpful video demonstrating how to load your tables using PhpMyAdmin is also available on Piazza. For comprehensive project details, refer to the project information document <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/ltezc4ifrw5sn" target="_blank">here</a>. Please read the document carefully and begin your work as soon as possible.</p>
-        <h3><strong>Project 2</strong></h3>
-        <p>In this task, you will carry out several exercises involving the optimization of relational queries using the PostgreSQL query optimizer and the visualization command EXPLAIN. You need to read parts of the PostgreSQL documentation to be able to complete this task. Use the <a href="https://piazza.com/class_profile/get_resource/lqgumfk5p7c3yl/lu1knjuhkq35e" target="_blank">Azure Support Manual</a> file from the Piazza resource page for Azure Virtual Machine setup. Please read the document carefully and begin your work as soon as possible.</p>
+        <h2>Research Projects</h2>
+        <p>A research project, on the other hand, aims at challenging the state-of-the-art. The goal is (i) either to better understand an open research problem through analysis and benchmarking, or (ii) to solve open problems through new designs and proof-of-concept implementations. The ultimate goal of a research project is to give a taste of research to students, and ideally lead to publications. When working on a research project, the student will interact with the instructor and the teaching assistants closely. <strong>Students will work in groups of three students.</strong><br><br>We have a number of possible research topics below. The students can also propose their own project (subject to instructor's approval).</p>
+        <br>
+        <h2>Subjects</h2>
+        <ul>
+            <li><a href="#">Project</a></li><br><br>
+            <li><a href="#">Project</a></li><br><br>
+            <!-- <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li><br><br>
+            <li><a href="#">Project </a></li> -->
+        </ul>
     </div>
 </div>

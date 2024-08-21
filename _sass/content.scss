@@ -152,7 +152,9 @@
   ol,
   ul {
     dl:first-child {
-      dt:first-child,
+      dt:first-child {
+        max-width: 40%;
+      }
       dd:nth-child(2) {
         margin-top: 0;
       }
@@ -236,4 +238,20 @@
   > .sect5:first-child > h6 {
     margin-top: $sp-2;
   }
+}
+
+.article-link {
+  margin: 5px 2px 0px 0px;
+  text-decoration: none;
+  border: 1px dashed silver;
+  padding: 4px;
+  width: fit-content;
+  font-family: serif;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.article-link:hover {
+  text-decoration: none;
+  border: 1px solid black;
 }
