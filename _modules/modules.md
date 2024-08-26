@@ -43,7 +43,7 @@ Fri, Sep 20
 [B] ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563){:target="_blank"}, *SIGMOD*, 2022
 
 Tue, Sep 24
-: [**Class 8:** __Guest Class__{: .label .label-green} on LSM Memory Buffer: __Shubham Kaushik__{: .label}](){:target="_blank"}
+: [**Class 8:** __Guest Lecture__{: .label .label-green} on LSM Memory Buffer: __Shubham Kaushik__{: .label}](){:target="_blank"}
     : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br>
 [B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
@@ -97,7 +97,7 @@ Tue, Nov 15
 : [**Class 21:** HTAP Systems __Student Presentation 3__{: .label .label-student}](#){:target="_blank"}
 
 Fri, Nov 19
-: [**Class 22:** ML and Systems __Student Presentation 3__{: .label .label-student}](#){:target="_blank"}
+: [**Class 22:** ML and Systems __Student Presentation 4__{: .label .label-student}](#){:target="_blank"}
 
 Fri, Nov 22
 : [**Class 23:** __Guest Lecture__{: .label .label-green} on Relational Memory: __Prof. Ju Hyoung Mun__{: .label}](){:target="_blank"}

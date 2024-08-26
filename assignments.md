@@ -21,51 +21,49 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="#" target="_blank">Project 0</a></td>
-            <td>Feb 8, 2024 @ 23:59</td>
-            <td><a href="#" target="_blank">Project 0 doc</a></td>
-            </tr>
-            <tr>
-            <td><a href="#" target="_blank">Project 1</a></td>
-            <td>Mar 1, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank"><b>Project 1</b></a></td>
+            <td>TBD</td>
             <td><a href="#" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
+            <td><a href="#" target="_blank"><b>Class Project</b> -- Proposal</a></td>
+            <td>TBD</td>
+            <td><a href="#" target="_blank">Proposal Template</a></td>
+            </tr>
+            <!-- <tr>
             <td><a href="#" target="_blank">Project Proposal</a></td>
-            <td>Mar 21, 2024 @ 23:59</td>
+            <td>TBD</td>
+            <td><a href="#" target="_blank"></a></td>
+            </tr> -->
+            <tr>
+            <td><a href="#" target="_blank"><b>Class Project</b> -- Mid-semester Report</a></td>
+            <td>TBD</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
-            <td><a href="#" target="_blank">Mid-semester Report</a></td>
-            <td>Apr 4, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a></td>
+            <td>TBD</td>
             <td><a href="#" target="_blank">Report Template</a></td>
             </tr>
             <tr>
-            <td><a href="#" target="_blank">Preliminary Project Report</a></td>
-            <td>Apr 4, 2024 @ 23:59</td>
-            <td><a href="#" target="_blank"></a></td>
-            </tr>
-            <tr>
-            <td><a href="#" target="_blank">Final Project Report</a></td>
-            <td>Apr 4, 2024 @ 23:59</td>
+            <td><a href="#" target="_blank"><b>Class Project</b> -- Final Project Report</a></td>
+            <td>TBD</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
         </tbody>
         </table>
-        <h3><strong>Project 0</strong></h3>
-        <p>A quick dev. project to sharpen C++ skills and to prepare for the upcoming research/dev project.</p>
         <h3><strong>Project 1</strong></h3>
-        <p>A small-scale implementation project on data systems.</p>
+        <p>A quick dev. project to sharpen C++ skills and to prepare for the upcoming research/dev project.</p>
         <h3><strong>Class Project</strong></h3>
         <p>Every student should complete a semester-long class project. The students can decide between a systems project and a research project.</p>
         <h3><strong>Useful Links:</strong></h3>
         <ul>
-            <li><a href="#">Introduction to Storage and Memory Hierarchy</a> and some <a href="#">example code</a></li>
+            <li>Coming soon!</li>
+            <!-- <li><a href="#">Introduction to Storage and Memory Hierarchy</a> and some <a href="#">example code</a></li>
             <li><a href="#">Introduction to debugging and performance tools [material developed at Harvard]</a></li>
             <li><a href="#">Performance monitoring [material developed at Harvard]</a></li>
             <li><a href="#">TPCH Data and Query generator tool</a></li>
-            <li><a href="https://dl.acm.org/citation.cfm?doid=2588555.2588892">A short summary of how to efficiently code multi-cores</a>(for a more detailed version drop by my office)</li>
-            <li><a href="#">Final project report template</a></li>
+            <li><a href="#">Final project report template</a></li> -->
         </ul>
     </div>
 </div>
@@ -77,9 +75,10 @@ banner_description: ""
         <br>
         <h2>Projects</h2>
         <ul>
-            <li><a href="#">Implementation of LSM-Trees</a></li>
+            <li>Coming soon!</li>
+            <!-- <li><a href="#">Implementation of LSM-Trees</a></li>
             <br><br>
-            <li><a href="#">Implementation of a Bufferpool</a></li>
+            <li><a href="#">Implementation of a Bufferpool</a></li> -->
         </ul>
     </div>
     <div class="programming">
@@ -88,8 +87,8 @@ banner_description: ""
         <br>
         <h2>Subjects</h2>
         <ul>
-            <li><a href="#">Project</a></li><br><br>
-            <li><a href="#">Project</a></li><br><br>
+            <li><a href="#">Coming soon!</a></li><br><br>
+            <!-- <li><a href="#">Project</a></li><br><br> -->
             <!-- <li><a href="#">Project </a></li><br><br>
             <li><a href="#">Project </a></li><br><br>
             <li><a href="#">Project </a></li><br><br>
