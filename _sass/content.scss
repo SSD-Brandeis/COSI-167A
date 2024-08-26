@@ -240,18 +240,53 @@
   }
 }
 
-.article-link {
-  margin: 5px 2px 0px 0px;
-  text-decoration: none;
-  border: 1px dashed silver;
-  padding: 4px;
-  width: fit-content;
-  font-family: serif;
-  background-color: transparent;
-  cursor: pointer;
+// .article-link {
+//   margin: 5px 2px 0px 0px;
+//   text-decoration: none;
+//   border: 1px dashed silver;
+//   padding: 4px;
+//   width: fit-content;
+//   font-family: serif;
+//   background-color: transparent;
+//   cursor: pointer;
+// }
+
+// .article-link:hover {
+//   text-decoration: none;
+//   border: 1px solid black;
+// }
+
+.slides-icon {
+  width: 35px;
+  height: 35px;
+  margin-top: 6px;
+  background-image: url('/COSI-167A/assets/images/teaching.png');
+  background-size: cover;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
-.article-link:hover {
-  text-decoration: none;
-  border: 1px solid black;
+.talk-icon {
+  width: 35px;
+  height: 35px;
+  margin-top: 6px;
+  margin-left: 4px;
+  background-image: url('/COSI-167A/assets/images/speaker.png');
+  background-size: cover;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.video-icon {
+  width: 35px;
+  height: 35px;
+  margin-top: 6px;
+  margin-left: 4px;
+  background-image: url('/COSI-167A/assets/images/video-chat.png');
+  background-size: cover;
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-position: center;
 }

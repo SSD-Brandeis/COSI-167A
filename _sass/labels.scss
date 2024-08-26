@@ -44,3 +44,22 @@
   color: $grey-dk-200;
   background-color: #ff7207;
 }
+
+.label-guest-lecture:not(g) {
+  color: $green-200;
+  padding: 0%;
+  background-color: white;
+  font-size: 14px !important;
+}
+
+.label-guest-name:not(g) {
+  color: $blue-200;
+  padding: 0%;
+  background-color: white;
+  font-size: 14px !important;
+}
+
+.label-guest-name:not(g):hover {
+  color: $blue-000;
+  text-decoration: underline;
+}
