@@ -28,7 +28,7 @@ Tue, Sep 10
 
 Fri, Sep 13
 : **Class 5:** Adaptive & Hybrid Layouts
-    : __[P]__ ["Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads"](https://db.cs.cmu.edu/papers/2016/arulraj-sigmod2016.pdf){:target="_blank"}, *SIGMOD*, 2016 <br>
+    : __[P]__ ["Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads"](https://db.cs.cmu.edu/papers/2016/arulraj-sigmod2016.pdf){:target="_blank"}, *SIGMOD*, 2016 <a href="/COSI-167A/assets/sample/Bridging_the_Archipelago_between_Row-Stores_and_Column-Stores_for_Hybrid_Workloads.pdf" title="Sample Review"><span class="sample-review"></span></a> <br>
 [B] ["H2O: A Hands-free Adaptive Store"](https://stratos.seas.harvard.edu/sites/scholar.harvard.edu/files/stratos/files/h2o.pdf){:target="_blank"}, *SIGMOD*, 2014
 
 Tue, Sep 17
