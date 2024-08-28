@@ -112,9 +112,11 @@ Fri, Nov 22
 : **Class 23:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}
     : 
 
-Fri, Nov 26
-: **Class 24:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
-    : 
+Fri, Nov 26:
+:TBD
+    :
+<!-- : **Class 24:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
+    :  -->
 
 Tue, Dec 3
 : **Class Project -- Presentations A**{: .label .label-grey}
