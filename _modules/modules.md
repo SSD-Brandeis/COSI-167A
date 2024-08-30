@@ -14,7 +14,7 @@ Tue, Sep 3
 : **Class 2:** Data Systems Architectures Essentials - Part 1 
     : __[P]__ ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2007 <br>
 [B] ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2012 <br>
-<!-- <a href="#"><span class="slides-icon"></span></a> <a href="#"><span class="talk-icon"></span></a> <a href="#"><span class="video-icon"></span></a> -->
+<a href="/COSI-167A/assets/slides/COSI167A-Class1.pdf"><span class="slides-icon"></span></a> <!--<a href="#"><span class="talk-icon"></span></a> <a href="#"><span class="video-icon"></span></a> -->
 
 Fri, Sep 6
 : **Class 3:** Data Systems Architectures Essentials - Part 2
