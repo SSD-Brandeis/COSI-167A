@@ -7,7 +7,7 @@ title: ""
     : **Readings**
 
 Fri, Aug 30
-: **Class 1:** Introduction to Data Systems and COSI 127A <br><a href="/COSI-167A/assets/slides/COSI167A-Class1.pdf" target="_blank"><span class="slides-icon"></span></a>
+: **Class 1:** Introduction to Data Systems and COSI 127A <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class1.pdf" target="_blank"><span class="slides-icon"></span></a>
     : 
 
 Tue, Sep 3
