@@ -7,14 +7,13 @@ title: ""
     : **Readings**
 
 Fri, Aug 30
-: **Class 1:** Introduction to Data Systems and COSI 127A
+: **Class 1:** Introduction to Data Systems and COSI 127A <br><a href="/COSI-167A/assets/slides/COSI167A-Class1.pdf" target="_blank"><span class="slides-icon"></span></a>
     : 
 
 Tue, Sep 3
-: **Class 2:** Data Systems Architectures Essentials - Part 1 
+: **Class 2:** Data Systems Architectures Essentials - Part 1
     : __[P]__ ["Architecture of a Database System"](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2007 <br>
-[B] ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2012 <br>
-<a href="/COSI-167A/assets/slides/COSI167A-Class1.pdf" target="_blank"><span class="slides-icon"></span></a> <!--<a href="#"><span class="talk-icon"></span></a> <a href="#"><span class="video-icon"></span></a> -->
+[B] ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2012  <!--<a href="#"><span class="talk-icon"></span></a> <a href="#"><span class="video-icon"></span></a> -->
 
 Fri, Sep 6
 : **Class 3:** Data Systems Architectures Essentials - Part 2
@@ -22,8 +21,8 @@ Fri, Sep 6
 [B] ["Massively Parallel Databases and MapReduce Systems"](https://www.cut.ac.cy/digitalAssets/122/122275_1002013-FnTDB-Survey.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2013
 
 Tue, Sep 10
-: **Class 4:** Row-Stores vs. Column-Stores
-    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br>
+: **Class 4:** Row-Stores vs. Column-Stores 
+    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br> [__Technical Question 1__{: .label .label-blue}](#){:target="_blank"} <br>
 [B] ["C-Store: A Column-oriented DBMS"](https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf){:target="_blank"}, *VLDB*, 2005
 
 Fri, Sep 13
@@ -73,7 +72,7 @@ Fri, Oct 18
     : 
 
 Tue, Oct 22
-: **Class 14:** Self-Designing LSM Engines __Student Presentation 1__{: .label .label-student}
+: **Class 14:** Optimizing LSM Engines <br> __Student Presentation - 1__{: .label .label-student-presentation} 
     : 
 
 Fri, Oct 25
@@ -81,11 +80,11 @@ Fri, Oct 25
     : 
 
 Tue, Oct 29
-: **Class 16:** Adaptive Radix Trees __Student Presentation 2__{: .label .label-student}
+: **Class 16:** Adaptive Radix Trees <br> __Student Presentation - 2__{: .label .label-student-presentation} 
     : 
 
 Fri, Nov 1
-: **Class 17:** Adaptive Indexing & Cracking __Student Presentation 3__{: .label .label-student}
+: **Class 17:** Adaptive Indexing & Cracking <br> __Student Presentation - 3__{: .label .label-student-presentation} 
     : 
 
 Tue, Nov 5
@@ -105,7 +104,7 @@ Fri, Nov 15
     : 
 
 Tue, Nov 19
-: **Class 22:** : HTAP Systems __Student Presentation 4__{: .label .label-student}
+: **Class 22:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
     : 
 
 Fri, Nov 22
@@ -113,7 +112,7 @@ Fri, Nov 22
     : 
 
 Tue, Nov 26
-: **Class 24:** TBD __Student Presentation 5__{: .label .label-student}
+: **Class 24:** TBD <br> __Student Presentation - 5__{: .label .label-student-presentation} 
 
 Fri, Nov 29
 : **Thanksgiving Holiday -- No Class**{: .label .label-yellow}
