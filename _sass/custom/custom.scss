@@ -189,7 +189,7 @@ p {
   min-width: 140px;
   z-index: 1;
   overflow: hidden;
-  font-weight: bold;
+  // font-weight: bold;
   font-size: small;
   width: 100%;
 
@@ -201,19 +201,20 @@ p {
 
   @include mq(md) {
     font-size: medium;
-    font-weight: bold;
+    // font-weight: bold;
   }
 }
 
 .dropdown-content a {
   float: none;
   color: $link-color;
-  padding: $sp-4;
+  padding: $sp-2;
   text-decoration: none;
   display: flex;
   text-align: center;
   font-weight: bold;
   font-size: small;
+  border-bottom: 1px solid silver;
 
   @include mq(sm) {
     font-size: medium;
