@@ -17,8 +17,8 @@ Tue, Sep 3
 
 Fri, Sep 6
 : **Class 3:** Data Systems Architectures Essentials - Part 2
-    : __[P]__ ["The Seattle Report on Database Research"](https://dl.acm.org/doi/abs/10.1145/3385658.3385668){:target="_blank"}, *SIGMOD Record*, 2022 <br>
-[B] ["Massively Parallel Databases and MapReduce Systems"](https://www.cut.ac.cy/digitalAssets/122/122275_1002013-FnTDB-Survey.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2013
+    : __[P]__ ["The Seattle Report on Database Research"](https://dl.acm.org/doi/pdf/10.1145/3524284){:target="_blank"}, *SIGMOD Record*, 2022 <br>
+[B] ["The Seattle Report on Database Research"](https://db.cs.washington.edu/events/other/2018/Seattle_DBResearch_Report-Full.pdf){:target="_blank"}, *SIGMOD Record*, 2018
 
 Tue, Sep 10
 : **Class 4:** Row-Stores vs. Column-Stores 
