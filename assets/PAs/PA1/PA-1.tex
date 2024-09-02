@@ -1,0 +1,88 @@
+\documentclass[12pt,a4paper,twoside]{article}
+
+% Set the default font
+\usepackage[T1]{fontenc}
+\usepackage{times}
+
+% Packages
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{datetime}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+
+% Page setup
+\usepackage[left=1in,right=1in,top=0.5in,bottom=1in,includehead,headheight=16mm]{geometry}
+
+
+% ========================================================================================
+%                           DEFINE BELOW PARAMETERS FOR EACH ASSIGNMENT                  %
+% ========================================================================================
+
+
+\newcommand{\assignmenttype}{Project}       % Type of Assignment [Written/Programming]
+\newcommand{\assignmentnumber}{1}           % Assignment Number
+\newdate{duedate}{08}{02}{2024}             % Due Date in this format {date}{month}{year}
+
+% ========================================================================================
+
+% constants
+\newcommand{\coursename}{COSI 167A}         % Name of the course
+\newcommand{\smallspace}{0.2cm}
+\newcommand{\mediumspace}{0.4cm}
+\newcommand{\largespace}{0.8cm}
+
+\newcommand\Paragraph[1]{\vspace{\mediumspace}  \noindent #1.}
+
+% Title
+\title{COSI 167A}
+\author{Advanced Data Systems}
+\date{\today}
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{
+    \includegraphics[width=0.25\textwidth]{../university_icon.png}
+    \hspace{\largespace} \hspace{\largespace} \includegraphics[width=0.095\textwidth]{../SSD-lab.png}
+}
+\fancyhead[R]{
+    \textbf{\coursename:} Advanced Data Systems\\
+    Fall 2024\\
+    \assignmenttype\ \assignmentnumber}
+\fancyfoot[LO,RE]{\coursename\ $\vert$ \assignmenttype\ \assignmentnumber}
+\fancyfoot[RO,LE]{\thepage}
+
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0.5pt}
+
+\begin{document}
+
+% Due Date
+\begin{center}
+    \textbf{\assignmenttype\ \assignmentnumber\ \:: \coursename}\\
+    \vspace{\smallspace}
+    \textbf{Due:} \displaydate{duedate} at 23:59
+\end{center}
+
+
+% ========================================================================================
+%                                   CONTENT                                              %
+% ========================================================================================
+
+
+\section{Logistics}
+\subsection{Collaboration}
+This is to be a group project with maximum size of 2.
+
+\subsection{Submitting your assignment}
+Please submit as pdf on Gradescope. Also make sure to submit as group submission. 
+The due date for \assignmenttype \assignmentnumber is \displaydate{duedate} at 23:59.
+
+
+% ========================================================================================
+%                                   END                                                  %
+% ========================================================================================
+
+
+\end{document}
