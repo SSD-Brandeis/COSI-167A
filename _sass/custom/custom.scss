@@ -196,7 +196,7 @@ p {
   @include mq(sm) {
     font-size: medium;
     font-weight: normal;
-    width: auto;
+    width: 70%;
   }
 
   @include mq(md) {
