@@ -41,7 +41,7 @@ Fri, Sep 20
 [B] ["The Log-Structured Merge-Tree (LSM-Tree)"](https://www.cs.umb.edu/~poneil/lsmtree.pdf){:target="_blank"}, *Acta Informatica*, 1996
 
 Tue, Sep 24
-: **Class 8:** LSM Memory Buffer <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name}
+: **Class 8:** LSM Memory Buffer <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name}
     : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br>
 [B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
@@ -51,14 +51,14 @@ Fri, Sep 27
 [B] ["Compactionary: A Dictionary for LSM Compactions"](https://subhadeep.net/assets/fulltext/Compactionary-A_Dictionary_for_LSM_Compactions.pdf){:target="_blank"}, *SIGMOD*, 2022
 
 Tue, Oct 1
-: **Class 10:** LSM Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name}
+: **Class 10:** LSM Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name}
     : 
 
 Fri, Oct 4
 : **Rosh Hashanah -- No Class**{: .label .label-yellow}
 
 Tue, Oct 8
-: **Class 11:** LSM Filters <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Zichen Zhu__](https://cs-people.bu.edu/zczhu/){:target="_blank"}{: .label .label-guest-name}
+: **Class 11:** LSM Filters <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Zichen Zhu__](https://cs-people.bu.edu/zczhu/){:target="_blank"}{: .label .label-guest-name}
     : 
 
 Fri, Oct 11
@@ -88,7 +88,7 @@ Fri, Nov 1
     : 
 
 Tue, Nov 5
-: **Class 18:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}
+: **Class 18:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}
     : 
 
 Fri, Nov 8
@@ -96,11 +96,11 @@ Fri, Nov 8
     : 
 
 Tue, Nov 12
-: **Class 20:** Parametric I/O Model <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Tarikul Islam Papon__](https://cs-people.bu.edu/papon/){:target="_blank"}{: .label .label-guest-name}
+: **Class 20:** Parametric I/O Model <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Tarikul Islam Papon__](https://cs-people.bu.edu/papon/){:target="_blank"}{: .label .label-guest-name}
     : 
 
 Fri, Nov 15
-: **Class 21:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
+: **Class 21:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
     : 
 
 Tue, Nov 19
@@ -108,7 +108,7 @@ Tue, Nov 19
     : 
 
 Fri, Nov 22
-: **Class 23:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="fas fa-user-tie"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}
+: **Class 23:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}
     : 
 
 Tue, Nov 26
