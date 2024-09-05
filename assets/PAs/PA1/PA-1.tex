@@ -106,19 +106,26 @@ The general workflow for the project is as follows.
         \item[\textbf{\texttt{W5}:}] \texttt{W2} with entries in random order
         \item[\textbf{\texttt{W6}:}] \texttt{W3} with entries in random order
     \end{enumerate}
+    \textbf{Plotting the results:} Note the execution latency for each workload and plot them along the y-axis of a graph. 
+    The x-axis of this graph is the six workloads (\texttt{W1}-\texttt{W6}). 
+    Within the there should be two lines (or groups of two bars -- \textit{your choice}), one for experiments on sorted data, another for the ones on unordered data. 
     \item[5.] Now that you have successfully implemented a zone map and run experiments with it, answer the following research question based on your understanding. \begin{enumerate}
-        \item[(i)] What is the expected memory footprint (in bytes) to build the zone map? (assume: number of elements is N and every zone has d entries.) 
+        \item[(i)] What is the expected memory footprint (in bytes) to build the zone map? (assume: number of elements is $N$ and every zone has $d$ entries.) 
         \item[(ii)] In practice, we may have raw data stored on disk, and the zone map is maintained in memory to reduce the number of required I/Os to answer queries. What should we do if we only have a limited memory budget to build the zone map (i.e., when the memory budget of M bytes is smaller than the expected memory footprint)? 
     \end{enumerate}
 \end{enumerate}
 
-\subsection*{Submission and Deliverables}
-Zone map implementation code that runs all the given workloads. 
-It is required to have comments within the implementation, that explain various design decisions. 
-Do NOT upload your code to public repositories, such as GitHub and Bitbucket. 
-Please submit as pdf on Gradescope. 
+\subsection*{Deliverables \& Submission Policy} 
+(A) Submit a PDF with the latency numbers for each experiment along with the plot. 
+Feel free to add any additional results from the experiments that you think is relevant. 
+In the same PDF, add the answers to the two research questions. 
+(B) Submit the zone map implementation code that runs all the given workloads. 
+It is required to have comments within the implementation, that explain various design decisions. \\ 
+
+\noindent \textbf{Do NOT} upload your code to public repositories, such as GitHub and Bitbucket. 
+Please submit as PDF on Gradescope. 
 % Also make sure to submit as group submission. 
-The due date for \assignmenttype{} \assignmentnumber{} is \displaydate{duedate} at 23:59. \\\\
+The due date for \assignmenttype{} \assignmentnumber{} is \textbf{\displaydate{duedate} at 23:59}. \\\\
 
 % ========================================================================================
 %                                   END                                                  %
