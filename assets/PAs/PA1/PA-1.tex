@@ -10,6 +10,7 @@
 \usepackage{datetime}
 \usepackage{ragged2e}
 \usepackage{enumitem}
+\usepackage{hyperref}
 
 % Page setup
 \usepackage[left=1in,right=1in,top=0.5in,bottom=1in,includehead,headheight=16mm]{geometry}
@@ -69,7 +70,7 @@
 
 \section*{Background}
 A zone map is a light-weight sparse index that maintains the minimum and maximum values of one (or more) attribute(s) of data that is stored across multiple contiguous blocks or pages.
-Theses blocks or pages are also referred to as \textit{zones}~[1]. 
+Theses blocks or pages are also referred to as \textit{zones}~\cite{ZWKPLK2017}. 
 A zone map helps in pruning the number of zones qualifying for a range or point query, and thereby, reduces the number of accesses (or I/Os) to slower storage. 
 Typically, a zone map is read once from storage, and if possible, pinned in memory during workload execution. 
 The zone map may be updated in memory as an when required as new data in ingested and moved to the storage. 
@@ -82,11 +83,11 @@ The objective of this project is to implement a simple zone map and evaluate its
 You will benchmark the zone map performance for both when (i) the data is stored as a \textit{heap file} and (ii) the data is stored as a \textit{sorted file}. \\
 
 \noindent \textbf{Language of Implementation.} It is strongly suggested that you use C/C++ to do your implementation if you are familiar with the languages. 
-If you are unfamiliar with C/C++, but want to learn it while working on the project, you can find the learning resources here. 
+If you are unfamiliar with C/C++, but want to learn it while working on the project, you can find some under \textbf{Useful Resources} in the \href{https://ssd-brandeis.github.io/COSI-167A/assignments/}{\underline{projects page}}. 
 If neither of the above is suitable for you, we can do the implementation in Java. \\
 
-\noindent \textbf{Workflow.} If you are implementing the project in C/C++, click on this link. 
-If you plan to implement in Java, click here. 
+\noindent \textbf{Workflow.} If you are implementing the project in C/C++, click on this \href{https://github.com/SSD-Brandeis/ZoneMaps-CPP}{\underline{link}}. 
+If you plan to implement in Java, click \href{https://github.com/SSD-Brandeis/ZoneMaps-Java}{\underline{here}}. 
 The general workflow for the project is as follows.
 
 \begin{enumerate}
@@ -119,10 +120,14 @@ Please submit as pdf on Gradescope.
 % Also make sure to submit as group submission. 
 The due date for \assignmenttype{} \assignmentnumber{} is \displaydate{duedate} at 23:59. \\\\
 
-\noindent [1] M. Ziauddin, A. Witkowski, Y. J. Kim, D. Potapov, J. Lahorani, and M. Krishna. 2017. Dimensions based data clustering and zone maps. PVLDB Endowment. 10(12), pp. 1622-1633. DOI: https://doi.org/10.14778/3137765.3137769. 
 % ========================================================================================
 %                                   END                                                  %
 % ========================================================================================
 
+
+\begin{thebibliography}{9}
+\bibitem{ZWKPLK2017}
+M. Ziauddin, A. Witkowski, Y. J. Kim, D. Potapov, J. Lahorani, and M. Krishna. 2017. \emph{Dimensions based data clustering and zone maps}, PVLDB Endowment. 10(12), pp. 1622-1633. DOI: https://doi.org/10.14778/3137765.3137769.
+\end{thebibliography}
 
 \end{document}

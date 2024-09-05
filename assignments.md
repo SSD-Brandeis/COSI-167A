@@ -22,8 +22,8 @@ banner_description: ""
         <tbody>
             <tr>
             <td><a href="#" target="_blank"><b>Project 1</b></a></td>
-            <td>TBD</td>
-            <td><a href="#" target="_blank">Project 1 doc</a></td>
+            <td>Sep 20, 11:59 PM</td>
+            <td><a href="/COSI-167A/assets/PAs/PA1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
             <td><a href="#" target="_blank"><b>Class Project</b> -- Proposal</a></td>
@@ -53,12 +53,12 @@ banner_description: ""
         </tbody>
         </table>
         <h3><strong>Project 1</strong></h3>
-        <p>A quick dev. project to sharpen C++ skills and to prepare for the upcoming research/dev project.</p>
+        <p>A quick development project to sharpen C++/Java skills and to prepare for the upcoming research/dev project.</p>
         <h3><strong>Class Project</strong></h3>
         <p>Every student should complete a semester-long class project. The students can decide between a systems project and a research project.</p>
         <h3><strong>Useful Links:</strong></h3>
         <ul>
-            <li>Coming soon!</li>
+            <li>C/C++ learning resources: <a href="https://www.learncpp.com/">learncpp.com</a>;  <a href="https://www.freecodecamp.org/news/learn-c-with-free-31-hour-course/">freeCodeCamp.org</a></li>
             <!-- <li><a href="#">Introduction to Storage and Memory Hierarchy</a> and some <a href="#">example code</a></li>
             <li><a href="#">Introduction to debugging and performance tools [material developed at Harvard]</a></li>
             <li><a href="#">Performance monitoring [material developed at Harvard]</a></li>
