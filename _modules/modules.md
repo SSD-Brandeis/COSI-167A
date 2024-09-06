@@ -22,7 +22,7 @@ Fri, Sep 6
 
 Tue, Sep 10
 : **Class 4:** Row-Stores vs. Column-Stores 
-    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br> [__Technical Question 1__{: .label .label-blue}](#){:target="_blank"} <br>
+    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br> [__Technical Question 1__{: .label .label-purple}](#){:target="_blank"} <b> <span style="color:#6e01fa">[What are the paper's main contributions? What is "late materialization"?](https://www.gradescope.com/courses/828851/assignments/4899143)</span> </b><br>
 [B] ["C-Store: A Column-oriented DBMS"](https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf){:target="_blank"}, *VLDB*, 2005
 
 Fri, Sep 13
