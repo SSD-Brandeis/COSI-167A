@@ -16,7 +16,7 @@ Tue, Sep 3
 [B] ["The Design and Implementation of Modern Column-Oriented Database Systems"](https://stratos.seas.harvard.edu/files/stratos/files/columnstoresfntdbs.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2012  <!--<a href="#"><span class="talk-icon"></span></a> <a href="#"><span class="video-icon"></span></a> -->
 
 Fri, Sep 6
-: **Class 3:** Data Systems Architectures Essentials - Part 2
+: **Class 3:** Data Systems Architectures Essentials - Part 2 <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class3.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["The Seattle Report on Database Research"](https://dl.acm.org/doi/pdf/10.1145/3524284){:target="_blank"}, *SIGMOD Record*, 2022 <br>
 [B] ["The Seattle Report on Database Research"](https://db.cs.washington.edu/events/other/2018/Seattle_DBResearch_Report-Full.pdf){:target="_blank"}, *SIGMOD Record*, 2018
 
