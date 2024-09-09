@@ -32,7 +32,7 @@ Fri, Sep 13
 
 Tue, Sep 17
 : **Class 6:** LSM Basics - Part 2
-    : __[P]__ ["Monkey: Optimal Navigable Key-Value Store"](https://nivdayan.github.io/monkeykeyvaluestore.pdf){:target="_blank"}, *SIGMOD*, 2017 <br>
+    : __[P]__ ["Monkey: Optimal Navigable Key-Value Store"](https://nivdayan.github.io/monkeykeyvaluestore.pdf){:target="_blank"}, *SIGMOD*, 2017 <br> [__Technical Question 2__{: .label .label-purple}](#){:target="_blank"} <b> <span style="color:#6e01fa">[TBD](#)</span> </b><br>
 [B] ["The LSM Design Space and its Read Optimizations"](){:target="_blank"}, *ICDE*, 2023
 
 Fri, Sep 20
