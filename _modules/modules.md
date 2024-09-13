@@ -26,7 +26,7 @@ Tue, Sep 10
 [B] ["C-Store: A Column-oriented DBMS"](https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf){:target="_blank"}, *VLDB*, 2005
 
 Fri, Sep 13
-: **Class 5:** LSM Basics - Part 1
+: **Class 5:** LSM Basics - Part 1 <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class5.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["LSM-based Storage Techniques: A Survey"](https://arxiv.org/pdf/1812.07527){:target="_blank"}, *VLDB Journal*, 2019 <br>
 [B] ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563){:target="_blank"}, *SIGMOD*, 2022
 
