@@ -31,7 +31,7 @@ Fri, Sep 13
 [B] ["Dissecting, Designing, and Optimizing LSM-based Data Stores"](https://dl.acm.org/doi/pdf/10.1145/3514221.3522563){:target="_blank"}, *SIGMOD*, 2022
 
 Tue, Sep 17
-: **Class 6:** LSM Basics - Part 2
+: **Class 6:** LSM Basics - Part 2 <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class6.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Monkey: Optimal Navigable Key-Value Store"](https://nivdayan.github.io/monkeykeyvaluestore.pdf){:target="_blank"}, *SIGMOD*, 2017 <br> [__Technical Question 2__{: .label .label-red}](#){:target="_blank"} <b> <span style="color:#6e01fa">[When does a tiered LSM-tree behave similarly to a leveled LSM-tree? What is the key contribution of the paper?](https://www.gradescope.com/courses/828851/assignments/4962877)</span> </b><br>
 [B] ["The LSM Design Space and its Read Optimizations"](){:target="_blank"}, *ICDE*, 2023
 
