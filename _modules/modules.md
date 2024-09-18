@@ -22,7 +22,7 @@ Fri, Sep 6
 
 Tue, Sep 10
 : **Class 4:** Row-Stores vs. Column-Stores <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class4.pdf" target="_blank"><span class="slides-icon"></span></a>
-    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br> [__Technical Question 1__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4899143){:target="_blank"} <b> <span style="color:#6e01fa">[What are the paper's main contributions? What is "late materialization"?](https://www.gradescope.com/courses/828851/assignments/4899143)</span> </b><br>
+    : __[P]__ ["Column-Stores vs. Row-Stores: How Different Are They Really?"](https://www.cs.umd.edu/~abadi/papers/abadi-sigmod08.pdf){:target="_blank"}, *SIGMOD*, 2008 <br> [__Technical Question 1__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4899143){:target="_blank"} <b> <span style="color:#6e01fa">[What are the paper's main contributions? What is "late materialization"?](https://www.gradescope.com/courses/828851/assignments/4899143){:target="_blank"}</span> </b><br>
 [B] ["C-Store: A Column-oriented DBMS"](https://web.stanford.edu/class/cs345d-01/rl/cstore.pdf){:target="_blank"}, *VLDB*, 2005
 
 Fri, Sep 13
@@ -32,7 +32,7 @@ Fri, Sep 13
 
 Tue, Sep 17
 : **Class 6:** LSM Basics - Part 2 <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class6.pdf" target="_blank"><span class="slides-icon"></span></a>
-    : __[P]__ ["Monkey: Optimal Navigable Key-Value Store"](https://nivdayan.github.io/monkeykeyvaluestore.pdf){:target="_blank"}, *SIGMOD*, 2017 <br> [__Technical Question 2__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4962877){:target="_blank"} <b> <span style="color:#6e01fa">[When does a tiered LSM-tree behave similarly to a leveled LSM-tree? What is the key contribution of the paper?](https://www.gradescope.com/courses/828851/assignments/4962877)</span> </b><br>
+    : __[P]__ ["Monkey: Optimal Navigable Key-Value Store"](https://nivdayan.github.io/monkeykeyvaluestore.pdf){:target="_blank"}, *SIGMOD*, 2017 <br> [__Technical Question 2__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4962877){:target="_blank"} <b> <span style="color:#6e01fa">[When does a tiered LSM-tree behave similarly to a leveled LSM-tree? What is the key contribution of the paper?](https://www.gradescope.com/courses/828851/assignments/4962877){:target="_blank"}</span> </b><br>
 [B] ["The LSM Design Space and its Read Optimizations"](){:target="_blank"}, *ICDE*, 2023
 
 Fri, Sep 20
@@ -42,7 +42,7 @@ Fri, Sep 20
 
 Tue, Sep 24
 : **Class 8:** LSM Memory Buffer <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name}
-    : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br> [__Technical Question 3__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"} <b> <span style="color:#6e01fa">[How does the memory allocation strategy affect the query latency for a pre-allocated vector vs. a dynamically allocated one? Given a workload, how would do decide the prefix length for a hash-hybrid buffer implementation?](https://www.gradescope.com/courses/828851/assignments/4993895/)</span> </b><br>
+    : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br> [__Technical Question 3__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"} <b> <span style="color:#6e01fa">[How does the memory allocation strategy affect the query latency for a pre-allocated vector vs. a dynamically allocated one? Given a workload, how would do decide the prefix length for a hash-hybrid buffer implementation?](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"}</span> </b><br>
 [B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
 Fri, Sep 27
