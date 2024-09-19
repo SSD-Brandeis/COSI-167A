@@ -28,3 +28,49 @@ node_modules
 *.gem
 .bundle
 .ruby-version
+
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Backup files
+*.bak
+*.backup
+*.sav
+
+# BibTeX intermediate files
+*.bbl
+*.blg
+
+# PDFLatex intermediate files
+*.pdfsync
+
+# Glossaries and Nomenclatures intermediate files
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Miscellaneous auxiliary files
+*.thm
+*.xdv
+*.dvi
+
+# Temporary files created by some LaTeX editors
+*~ 
+.#*
