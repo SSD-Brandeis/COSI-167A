@@ -21,9 +21,9 @@ banner_description: ""
         </thead>
         <tbody>
             <tr>
-            <td><a href="#" target="_blank"><b>Project 1</b></a></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/4897995" target="_blank"><b>Project 1</b></a></td>
             <td>Sep 20, 11:59 PM</td>
-            <td><a href="/COSI-167A/assets/PAs/PA1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
+            <td><a href="/COSI-167A/assets/projects/Project 1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
             <td><a href="#" target="_blank"><b>Class Project</b> -- Proposal</a></td>
