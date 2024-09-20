@@ -75,10 +75,9 @@ banner_description: ""
         <br>
         <h2>Projects</h2>
         <ul>
-            <li>Coming soon!</li>
-            <!-- <li><a href="#">Implementation of LSM-Trees</a></li>
+            <li><a href="/COSI-167A/assets/projects/Class Project/Systems Project/LSMTreeDataStore/LSMTreeDataStore.pdf" target="_blank">Implementing an LSM-Based Key-Value Store</a></li>
             <br><br>
-            <li><a href="#">Implementation of a Bufferpool</a></li> -->
+            <li><a href="/COSI-167A/assets/projects/Class Project/Systems Project/COSI167A-F24-Systems-Implementing-Compaction-Strategies-in-RocksDB.pdf" target="_blank">Implementing Compaction Policies on RocksDB</a></li>
         </ul>
     </div>
     <div class="programming">
@@ -87,16 +86,10 @@ banner_description: ""
         <br>
         <h2>Subjects</h2>
         <ul>
-            <li><a href="#">Coming soon!</a></li><br><br>
-            <!-- <li><a href="#">Project</a></li><br><br> -->
-            <!-- <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li><br><br>
-            <li><a href="#">Project </a></li> -->
+            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Optimal-Index-Granularity-in-LSM.pdf" target="_blank">Finding the optimal caching policy in LSM-trees</a></li><br><br>
+            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Range-Deletes-in-LSM.pdf" target="_blank">Implementing Range Deletes in LSM-Trees</a></li><br><br>
+            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Self-Designing-LSM-Buffer.pdf" target="_blank">Self-Designing LSM Memory Buﬀer</a></li><br><br>
+            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Time-Traveling-LSM.pdf" target="_blank">Time-Traveling LSM-Engines</a></li><br><br>
         </ul>
     </div>
 </div>
