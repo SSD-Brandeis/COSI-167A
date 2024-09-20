@@ -36,7 +36,7 @@ Tue, Sep 17
 [B] ["The LSM Design Space and its Read Optimizations"](){:target="_blank"}, *ICDE*, 2023
 
 Fri, Sep 20
-: **Class 7:** Class Project Overview
+: **Class 7:** Class Project Overview <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class7.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Data Structures for Data-Intensive Applications"](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf){:target="_blank"}, *Foundations and Trends in Databases*, 2023  <br>
 [B] ["The Log-Structured Merge-Tree (LSM-Tree)"](https://www.cs.umb.edu/~poneil/lsmtree.pdf){:target="_blank"}, *Acta Informatica*, 1996
 
