@@ -61,16 +61,16 @@
 
 % Due Date
 \begin{center}
-    \textbf{\assignmenttype\ \assignmentnumber\ \:: Implementation of and LSM-Tree based key-value store}\\
+    \Large{\textbf{Implementing an LSM-Based Key-Value Store}}\\
     \vspace{\smallspace}
-    \textbf{Due:} \displaydate{duedate} at 23:59
+    % \textbf{Due:} \displaydate{duedate} at 23:59
 \end{center}
 
 
-
-\section*{Background}
-Log-structured merge-tree (LSM-trees)~\cite{CLMJLSM2020, NDMASIMONKEY2017, POECDGEJLSM1996} are one of the most commonly used data structures for persistent storage of key-value entries.
-LSM-tree-based storages are in use in several modern key-value stores including RocksDB at Facebook, LevelDB and BigTable at Google, bLSM and cLSM at Yahoo!, Cassandra and HBase at Apache, and so on.
+\normalsize
+\subsection*{Background}
+Log-structured merge-trees (LSM-trees)~\cite{CLMJLSM2020, NDMASIMONKEY2017, POECDGEJLSM1996} are one of the most commonly used data structures for persistent storage of key-value entries.
+LSM-based storages are in use in several modern key-value stores including RocksDB at Meta, LevelDB and BigTable at Google, Cassandra and HBase at Apache, and so on.
 LSM-trees store data in the disk as immutable logs (also known as sorted sequence tables (SSTs)), which are maintained in hierarchical levels of increasing capacity.
 To bound the number of logs that a lookup has to probe, LSM-trees merge logs of similar sizes.
 The two possible merging strategies are (i) leveling (optimized for lookups) and (ii) tiering (optimized for updates).
@@ -78,11 +78,11 @@ The two possible merging strategies are (i) leveling (optimized for lookups) and
 \subsection*{Objective}
 The objective of the project is to implement an LSM-tree using only a single process thread. 
 Review the LSM-tree literature to understand the principles and operations supported in an LSM-tree.
-Implement a vanilla LSM-tree for both merging strategies \--- leveling and tiering. \\
+Implement a vanilla LSM-tree for both merging strategies -- leveling and tiering. \\
 
 \noindent \textbf{Language of Implementation.} It is strongly suggested that you use C/C++ to do your implementation if you are familiar with the languages. 
 If you are unfamiliar with C/C++, but want to learn it while working on the project, you can find some under \textbf{Useful Resources} in the \href{https://ssd-brandeis.github.io/COSI-167A/assignments/}{\underline{projects page}}. 
-If neither of the above is suitable for you, we can do the implementation in Java. \\
+If neither of the above is suitable for you, you may implement the project in Java. \\ 
 
 \noindent \textbf{Workflow.} If you are implementing the project in C/C++, click on this \href{https://github.com/SSD-Brandeis/LSMTree-DataStore-CPP}{\underline{link}}. 
 If you plan to implement in Java, click \href{https://github.com/SSD-Brandeis/LSMTree-DataStore-Java}{\underline{here}}. 
@@ -93,19 +93,20 @@ The general workflow for the project is as follows.
     These will serve as the foundation for building an LSM-based key-value datastore.
     Your task is to build an LSM-based key-value datastore on top of this TemplateDB implementation. Before starting, ensure you thoroughly review the \texttt{README} file.
     You are free to modify certain components to fit your specific implementation approach.
-    \item[2.] Although we do not expect you to implement partial compaction in the LSM tree, you are welcome to do so.
-    For leveling, make sure your data at each level is stored and stored in multiple files to facilitate partial compactions.
-    Similarly, for tiering, each tier should consist of multiple files.
+    \item[2.] For leveling, make sure your data at each level is stored and stored in multiple files to facilitate partial compactions.
+    Similarly, for tiering, each tier should comprise of multiple files.
     Alternatively, you can implement compaction by maintaining a single sorted run (or one SST file) at each level for leveling, and during compaction, merge all data from level $i$ with level $i+1$. 
-    For tiering, store each tier as a single sorted run, and whenever level $i$ accumulates $T$ runs, sort-merge them and write a single run to the next level.
-    \item[3. ] The creation of Bloom filters may vary depending on your implementation. If all data is kept in a single file at each level, only one Bloom filter per level may be necessary.
+    For tiering, store each tier as a single sorted run, and whenever level $i$ accumulates $T$ runs, sort-merge them and write a single run to the next level. \\
+    (note: Although we do not expect you to implement partial compaction in the leveled LSM-tree, you are welcome to do so.)
+    \item[3. ] The creation of Bloom filters may vary depending on your implementation. If all data is kept in a single file at each level, only one Bloom filter per level may be enough.
     However, if the data is stored in multiple files, a Bloom filter will be required for each file to support partial compactions.
-    \item[4. ] You are not expected to implement Range Deletes.
+    \item[4. ] Fence pointers (or zone maps) are expected to be maintained at the granularity of pages. 
+    \item[5. ] Your LSM-tree implementation should support insert, update, and deletion of key along with point and range queries. \\
+    (Note: The output of range queries must be sorted. You are not allowed to store intermediate results from all levels in a large vector and then sort them together. Instead, you need to implement a merge process for several iterators across different runs to avoid unnecessary space amplification.)
+    \item[6. ] Make sure to report all necessary performance numbers after executing a workload. 
 \end{enumerate}
-\textbf{Note: There is one more restrictions when implementing range queries.}
-\begin{enumerate}
-  \item[1.] The output of range queries must be sorted. You are not allowed to store intermediate results from all levels in a large vector and then sort them together. Instead, you need to implement a merge process for several iterators across different runs to avoid unnecessary space amplification.
-\end{enumerate}
+
+
 
 
 % \subsection*{Deliverables \& Submission Policy} 
@@ -115,10 +116,10 @@ The general workflow for the project is as follows.
 % (B) Submit as a ZIP the zone map implementation code that runs all the given workloads. 
 % It is required to have comments within the implementation, that explain various design decisions. \\ 
 
-\noindent \textbf{Do NOT} upload your code to public repositories, such as GitHub and Bitbucket. 
+\noindent \textbf{Do NOT} upload your code to public repositories, such as GitHub and Bitbucket. \\\\
 % Please submit a single PDF and a ZIP file on Gradescope. 
 % Also make sure to submit as group submission. 
-The due date for \assignmenttype{}\ \assignmentnumber{} is \textbf{\displaydate{duedate} at 23:59}. \\\\
+% The due date for \assignmenttype{}\ \assignmentnumber{} is \textbf{\displaydate{duedate} at 23:59}. \\\\
 
 % ========================================================================================
 %                                   END                                                  %
