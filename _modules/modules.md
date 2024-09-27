@@ -46,7 +46,7 @@ Tue, Sep 24
 [B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
 Fri, Sep 27
-: **Class 9:** LSM Compactions
+: **Class 9:** LSM Compactions <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class9.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Constructing and Analyzing the LSM Compaction Design Space"](https://subhadeep.net/assets/fulltext/Constructing_and_Analyzing_the_LSM_Compaction_Design_Space.pdf){:target="_blank"}, *VLDB*, 2021 <br>
 [B] ["Compactionary: A Dictionary for LSM Compactions"](https://subhadeep.net/assets/fulltext/Compactionary-A_Dictionary_for_LSM_Compactions.pdf){:target="_blank"}, *SIGMOD*, 2022
 
