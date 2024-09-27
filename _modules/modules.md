@@ -41,7 +41,7 @@ Fri, Sep 20
 [B] ["The Log-Structured Merge-Tree (LSM-Tree)"](https://www.cs.umb.edu/~poneil/lsmtree.pdf){:target="_blank"}, *Acta Informatica*, 1996
 
 Tue, Sep 24
-: **Class 8:** LSM Memory Buffer <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name}
+: **Class 8:** LSM Memory Buffer <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class8.pdf" target="_blank"><span class="slides-icon"></span></a> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name}
     : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br> [__Technical Question 3__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"} <b> <span style="color:#6e01fa">[How does the memory allocation strategy affect the query latency for a pre-allocated vector vs. a dynamically allocated one? Given a workload, how would do decide the prefix length for a hash-hybrid buffer implementation?](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"}</span> </b><br>
 [B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
