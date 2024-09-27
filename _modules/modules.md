@@ -66,14 +66,14 @@ Fri, Oct 11
 : **Yom Kippur -- No Class**{: .label .label-grey}
 
 Tue, Oct 15
-: **Class 12:** LSM Deletes - Part 1
+: **Class 12:** LSM Deletes
 
 Fri, Oct 18
-: **Class 13:** LSM Deletes - Part 2
+: **Class 13:** Optimizing LSM Engines <br> __Student Presentation - 1__{: .label .label-student-presentation} 
     : 
 
 Tue, Oct 22
-: **Class 14:** Optimizing LSM Engines <br> __Student Presentation - 1__{: .label .label-student-presentation} 
+: **Brandeis Thursday -- No Class**{: .label .label-grey}
     : 
 
 Fri, Oct 25
