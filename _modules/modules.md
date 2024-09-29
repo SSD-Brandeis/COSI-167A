@@ -52,7 +52,7 @@ Fri, Sep 27
 
 Tue, Oct 1
 : **Class 10:** LSM Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name}
-    : __[P]__ ["Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty"](https://arxiv.org/pdf/2110.13801){:target="_blank"}, *VLDB*, 2022 <br> [__Review Paper 1__{: .label .label-yellow}](#){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br>
+    : __[P]__ ["Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty"](https://arxiv.org/pdf/2110.13801){:target="_blank"}, *VLDB*, 2022 <br> [__Review Paper 1__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5066340/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br>
 [B] ["CliffGuard: A Principled Framework for Finding Robust Database Designs"](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2015.pdf){:target="_blank"}, *SIGMOD*, 2015
 
 Fri, Oct 4
