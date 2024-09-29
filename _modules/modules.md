@@ -51,7 +51,7 @@ Fri, Sep 27
 [B] ["Compactionary: A Dictionary for LSM Compactions"](https://subhadeep.net/assets/fulltext/Compactionary-A_Dictionary_for_LSM_Compactions.pdf){:target="_blank"}, *SIGMOD*, 2022
 
 Tue, Oct 1
-: **Class 10:** LSM Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name}
+: **Class 10:** LSM Tuning & Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name}
     : __[P]__ ["Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty"](https://arxiv.org/pdf/2110.13801){:target="_blank"}, *VLDB*, 2022 <br> [__Review Paper 1__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5066340/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br>
 [B] ["CliffGuard: A Principled Framework for Finding Robust Database Designs"](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2015.pdf){:target="_blank"}, *SIGMOD*, 2015
 
@@ -72,8 +72,9 @@ Tue, Oct 15
 [B] ["Acheron: Persisting Tombstones in LSM Engines"](https://subhadeep.net/assets/fulltext/Acheron_Persisting_Tombstones_in_LSM_Engines.pdf){:target="_blank"}, *SIGMOD*, 2023
 
 Fri, Oct 18
-: **Class 13:** Optimizing LSM Engines <br> __Student Presentation - 1__{: .label .label-student-presentation} 
-    : 
+: **Class 13:** LSM Tuning Optimization <br> __Student Presentation - 1__{: .label .label-student-presentation} 
+    : __[P]__ ["Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads"](https://dl.acm.org/doi/pdf/10.1145/3617333){:target="_blank"}, *SIGMOD*, 2023 <br> 
+[B] ["Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging"](https://scholar.harvard.edu/files/stratos/files/dostoevskykv.pdf){:target="_blank"}, *SIGMOD*, 2018
 
 Tue, Oct 22
 : **Brandeis Thursday -- No Class**{: .label .label-grey}
@@ -116,7 +117,7 @@ Fri, Nov 22
     : 
 
 Tue, Nov 26
-: **Class 24:** TBD <br> __Student Presentation - 5__{: .label .label-student-presentation} 
+: **Class 24:** Data Structures in Databases <br> __Student Presentation - 5__{: .label .label-student-presentation} 
 
 Fri, Nov 29
 : **Thanksgiving Holiday -- No Class**{: .label .label-grey}
