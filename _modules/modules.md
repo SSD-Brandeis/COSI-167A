@@ -41,7 +41,7 @@ Fri, Sep 20
 [B] ["The Log-Structured Merge-Tree (LSM-Tree)"](https://www.cs.umb.edu/~poneil/lsmtree.pdf){:target="_blank"}, *Acta Informatica*, 1996
 
 Tue, Sep 24
-: **Class 8:** LSM Memory Buffer <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class8.pdf" target="_blank"><span class="slides-icon"></span></a> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name}
+: **Class 8:** LSM Memory Buffer <br>__Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Shubham Kaushik__](https://shubhamkaushik.com){:target="_blank"}{: .label .label-guest-name} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class8.pdf" target="_blank"><span class="slides-icon"></span></a> 
     : __[P]__ ["Anatomy of the LSM Memory Buffer: Insights & Implications"](https://dl.acm.org/doi/pdf/10.1145/3662165.3662766){:target="_blank"}, *DBTest*, 2024 <br> [__Technical Question 3__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"} <b> <span style="color:#6e01fa">[How does the memory allocation strategy affect the query latency for a pre-allocated vector vs. a dynamically allocated one? Given a workload, how would do decide the prefix length for a hash-hybrid buffer implementation?](https://www.gradescope.com/courses/828851/assignments/4993895/){:target="_blank"}</span> </b><br>
 [B] ["Breaking Down Memory Walls: Adaptive Memory Management in LSM-based Storage Systems"](https://vldb.org/pvldb/vol14/p241-luo.pdf){:target="_blank"}, *VLDB*, 2020
 
@@ -60,13 +60,16 @@ Fri, Oct 4
 
 Tue, Oct 8
 : **Class 11:** LSM Filters <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Zichen Zhu__](https://cs-people.bu.edu/zczhu/){:target="_blank"}{: .label .label-guest-name}
-    : 
+    : __[P]__ ["LSM-Tree Under (Memory) Pressure"](https://cs-people.bu.edu/mathan/publications/adms22-mun.pdf){:target="_blank"}, *ADMS*, 2022 <br> [__Technical Question 4__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5066391/){:target="_blank"} <b> <span style="color:#6e01fa">[SHaMBa achieves better lookup performance when large Bloom filters do not fit in memory. Can we do something similar if we have large index blocks? Give a concrete example to explain why it could work or not.](https://www.gradescope.com/courses/828851/assignments/5066391/){:target="_blank"}</span> </b><br>
+[B] ["Reducing Bloom Filter CPU Overhead in LSM-trees on Modern Storage Devices"](https://dl.acm.org/doi/pdf/10.1145/3465998.3466002){:target="_blank"}, *DaMoN*, 2021
 
 Fri, Oct 11
 : **Yom Kippur -- No Class**{: .label .label-grey}
 
 Tue, Oct 15
 : **Class 12:** LSM Deletes
+    : __[P]__ ["Lethe: A Tunable Delete-Aware LSM Engine"](https://subhadeep.net/assets/fulltext/Lethe_A_Tunable_Delete-Aware_LSM_Engine.pdf){:target="_blank"}, *SIGMOD*, 2020 <br> [__Technical Question 5__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5066436/){:target="_blank"} <b> <span style="color:#6e01fa">[To ensure bounded delete persistent latency, Lethe aggressively performs compactions. How does these eager compactions affect write amplification of the overall system?](https://www.gradescope.com/courses/828851/assignments/5066436/){:target="_blank"}</span> </b><br>
+[B] ["Acheron: Persisting Tombstones in LSM Engines"](https://subhadeep.net/assets/fulltext/Acheron_Persisting_Tombstones_in_LSM_Engines.pdf){:target="_blank"}, *SIGMOD*, 2023
 
 Fri, Oct 18
 : **Class 13:** Optimizing LSM Engines <br> __Student Presentation - 1__{: .label .label-student-presentation} 

@@ -26,9 +26,9 @@ banner_description: ""
             <td><a href="/COSI-167A/assets/projects/Project 1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
-            <td><a href="#" target="_blank"><b>Class Project</b> -- Proposal</a></td>
-            <td>TBD</td>
-            <td><a href="#" target="_blank">Proposal Template</a></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5066448/" target="_blank"><b>Class Project</b> -- Proposal</a></td>
+            <td>Oct 8, 11:59 PM</td>
+            <td><a href="https://www.overleaf.com/read/wjctkzysjmsb#10f4c0" target="_blank">Report Template</a></td>
             </tr>
             <!-- <tr>
             <td><a href="#" target="_blank">Project Proposal</a></td>
@@ -37,17 +37,17 @@ banner_description: ""
             </tr> -->
             <tr>
             <td><a href="#" target="_blank"><b>Class Project</b> -- Mid-semester Report</a></td>
-            <td>TBD</td>
+            <td>Nov 1, 11:59 PM</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
             <td><a href="#" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a></td>
-            <td>TBD</td>
-            <td><a href="#" target="_blank">Report Template</a></td>
+            <td>Nov 26, 11:59 PM</td>
+            <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
             <td><a href="#" target="_blank"><b>Class Project</b> -- Final Project Report</a></td>
-            <td>TBD</td>
+            <td>Dec 10, 11:59 PM</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
         </tbody>
