@@ -82,7 +82,7 @@ banner_description: ""
     </div>
     <div class="programming">
         <h2>Research Projects</h2>
-        <p>A research project, on the other hand, aims at challenging the state-of-the-art. The goal is (i) either to better understand an open research problem through analysis and benchmarking, or (ii) to solve open problems through new designs and proof-of-concept implementations. The ultimate goal of a research project is to give a taste of research to students, and ideally lead to publications. When working on a research project, the student will interact with the instructor and the teaching assistants closely. <strong>Students will work in groups of three students.</strong><br><br>We have a number of possible research topics below. The students can also propose their own project (subject to instructor's approval).</p>
+        <p>A research project, on the other hand, aims at challenging the state-of-the-art. The goal is (i) either to better understand an open research problem through analysis and benchmarking, or (ii) to solve open problems through new designs and proof-of-concept implementations. The ultimate goal of a research project is to give a taste of research to students, and ideally lead to publications. When working on a research project, the student will interact with the instructor and the teaching assistants closely. <strong>Students will work in groups of two students.</strong><br><br>We have a number of possible research topics below. The students can also propose their own project (subject to instructor's approval).</p>
         <br>
         <h2>Subjects</h2>
         <ul>
