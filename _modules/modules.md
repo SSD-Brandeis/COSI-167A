@@ -51,7 +51,7 @@ Fri, Sep 27
 [B] ["Compactionary: A Dictionary for LSM Compactions"](https://subhadeep.net/assets/fulltext/Compactionary-A_Dictionary_for_LSM_Compactions.pdf){:target="_blank"}, *SIGMOD*, 2022
 
 Tue, Oct 1
-: **Class 10:** LSM Tuning & Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name}
+: **Class 10:** LSM Tuning & Robustness <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Andy Huynh__](https://ndhuynh.com/){:target="_blank"}{: .label .label-guest-name} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class10.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty"](https://arxiv.org/pdf/2110.13801){:target="_blank"}, *VLDB*, 2022 <br> [__Review Paper 1__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5066340/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br>
 [B] ["CliffGuard: A Principled Framework for Finding Robust Database Designs"](https://web.eecs.umich.edu/~mozafari/php/data/uploads/sigmod_2015.pdf){:target="_blank"}, *SIGMOD*, 2015
 
@@ -59,7 +59,7 @@ Fri, Oct 4
 : **Rosh Hashanah -- No Class**{: .label .label-grey}
 
 Tue, Oct 8
-: **Class 11:** LSM Filters <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Zichen Zhu__](https://cs-people.bu.edu/zczhu/){:target="_blank"}{: .label .label-guest-name}
+: **Class 11:** LSM Filters <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Zichen Zhu__](https://cs-people.bu.edu/zczhu/){:target="_blank"}{: .label .label-guest-name} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class11.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["LSM-Tree Under (Memory) Pressure"](https://cs-people.bu.edu/mathan/publications/adms22-mun.pdf){:target="_blank"}, *ADMS*, 2022 <br> [__Technical Question 4__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5066391/){:target="_blank"} <b> <span style="color:#6e01fa">[SHaMBa achieves better lookup performance when large Bloom filters do not fit in memory. Can we do something similar if we have large index blocks? Give a concrete example to explain why it could work or not.](https://www.gradescope.com/courses/828851/assignments/5066391/){:target="_blank"}</span> </b><br>
 [B] ["Reducing Bloom Filter CPU Overhead in LSM-trees on Modern Storage Devices"](https://dl.acm.org/doi/pdf/10.1145/3465998.3466002){:target="_blank"}, *DaMoN*, 2021
 
