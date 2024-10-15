@@ -67,7 +67,7 @@ Fri, Oct 11
 : **Yom Kippur -- No Class**{: .label .label-grey}
 
 Tue, Oct 15
-: **Class 12:** LSM Deletes
+: **Class 12:** LSM Deletes <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class12.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Lethe: A Tunable Delete-Aware LSM Engine"](https://subhadeep.net/assets/fulltext/Lethe_A_Tunable_Delete-Aware_LSM_Engine.pdf){:target="_blank"}, *SIGMOD*, 2020 <br> [__Technical Question 5__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5066436/){:target="_blank"} <b> <span style="color:#6e01fa">[To ensure bounded delete persistent latency, Lethe aggressively performs compactions. How does these eager compactions affect write amplification of the overall system?](https://www.gradescope.com/courses/828851/assignments/5066436/){:target="_blank"}</span> </b><br>
 [B] ["Acheron: Persisting Tombstones in LSM Engines"](https://subhadeep.net/assets/fulltext/Acheron_Persisting_Tombstones_in_LSM_Engines.pdf){:target="_blank"}, *SIGMOD*, 2023
 
