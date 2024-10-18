@@ -86,11 +86,12 @@ Fri, Oct 25
 
 Tue, Oct 29
 : **Class 16:** Adaptive Radix Trees <br> __Student Presentation - 2__{: .label .label-student-presentation} 
-    : 
+    : __[P]__ ["The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases"](https://db.in.tum.de/~leis/papers/ART.pdf){:target="_blank"}, *ICDE*, 2013 <br> [__Review Paper 2__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5182321/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br> 
 
 Fri, Nov 1
 : **Class 17:** Adaptive Indexing & Cracking <br> __Student Presentation - 3__{: .label .label-student-presentation} 
-    : 
+    : __[P]__ ["Adaptive Adaptive Indexing"](https://bigdata.uni-saarland.de/publications/Adaptive_Adaptive_Indexing_ICDE18.pdf){:target="_blank"}, *ICDE*, 2018 <br> 
+[B] ["Self-organizing Tuple Reconstruction in Column-stores"](https://scholar.harvard.edu/files/IKM_SIGMOD09.pdf){:target="_blank"}, *SIGMOD*, 2009
 
 Tue, Nov 5
 : **Class 18:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}
