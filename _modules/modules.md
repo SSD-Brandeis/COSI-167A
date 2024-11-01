@@ -72,7 +72,7 @@ Tue, Oct 15
 [B] ["Acheron: Persisting Tombstones in LSM Engines"](https://subhadeep.net/assets/fulltext/Acheron_Persisting_Tombstones_in_LSM_Engines.pdf){:target="_blank"}, *SIGMOD*, 2023
 
 Fri, Oct 18
-: **Class 13:** LSM Tuning Optimization <br> __Student Presentation - 1__{: .label .label-student-presentation} 
+: **Class 13:** LSM Tuning Optimization <br> __Student Presentation - 1__{: .label .label-student-presentation}  <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class13.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Learning to Optimize LSM-trees: Towards A Reinforcement Learning based Key-Value Store for Dynamic Workloads"](https://dl.acm.org/doi/pdf/10.1145/3617333){:target="_blank"}, *SIGMOD*, 2023 <br> 
 [B] ["Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores via Adaptive Removal of Superfluous Merging"](https://scholar.harvard.edu/files/stratos/files/dostoevskykv.pdf){:target="_blank"}, *SIGMOD*, 2018
 
@@ -81,44 +81,53 @@ Tue, Oct 22
     : 
 
 Fri, Oct 25
-: **Class 15:** Introduction to Indexing: Trees & Tries
+: **Class 14:** Class canceled!
     : 
 
 Tue, Oct 29
-: **Class 16:** Adaptive Radix Trees <br> __Student Presentation - 2__{: .label .label-student-presentation} 
+: **Class 15:** Adaptive Radix Trees <br> __Student Presentation - 2__{: .label .label-student-presentation} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class15.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases"](https://db.in.tum.de/~leis/papers/ART.pdf){:target="_blank"}, *ICDE*, 2013 <br> [__Review Paper 2__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5182321/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br> 
 
 Fri, Nov 1
-: **Class 17:** Adaptive Indexing & Cracking <br> __Student Presentation - 3__{: .label .label-student-presentation} 
+: **Class 16:** Adaptive Indexing & Cracking <br> __Student Presentation - 3__{: .label .label-student-presentation} 
     : __[P]__ ["Adaptive Adaptive Indexing"](https://bigdata.uni-saarland.de/publications/Adaptive_Adaptive_Indexing_ICDE18.pdf){:target="_blank"}, *ICDE*, 2018 <br> 
 [B] ["Self-organizing Tuple Reconstruction in Column-stores"](https://scholar.harvard.edu/files/IKM_SIGMOD09.pdf){:target="_blank"}, *SIGMOD*, 2009
 
 Tue, Nov 5
-: **Class 18:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}
-    : 
+: **Class 17:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}
+    : __[P]__ ["Indexing for Near-Sorted Data"](https://cs-people.bu.edu/mathan/publications/icde23-raman.pdf){:target="_blank"}, *ICDE*, 2023 
+    <br> [__Review Paper 3__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5253698/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br>
+[B] ["BoDS: A Benchmark on Data Sortedness"](https://cs-people.bu.edu/mathan/publications/tpctc22-raman.pdf){:target="_blank"}, *TPCTC*, 2022
+
 
 Fri, Nov 8
-: **Class 19:** Modern Hardware Trends
+: **Class 18:** Modern Hardware Trends
     : 
 
 Tue, Nov 12
-: **Class 20:** Parametric I/O Model <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Tarikul Islam Papon__](https://cs-people.bu.edu/papon/){:target="_blank"}{: .label .label-guest-name}
-    : 
+: **Class 19:** Parametric I/O Model <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Tarikul Islam Papon__](https://cs-people.bu.edu/papon/){:target="_blank"}{: .label .label-guest-name}
+    : __[P]__ ["ACEing the Bufferpool Management Paradigm for Modern Storage Devices"](https://cs-people.bu.edu/papon/pdfs/icde23-papon.pdf){:target="_blank"}, *ICDE*, 2023 <br> 
+    [__Technical Question 6__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[Consider you have three SSDs with the following asymmetry values: (i) α = 2.0, (ii) α = 4.0, (iii) α = 6.0. Your workload contains 50% writes with a predictive pattern. Which device will have the highest speedup after implementing ACE bufferpool and why? Also, will you use any prefetcher? Justify your answer.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
+[B] ["A Parametric I/O Model for Modern Storage Devices"](https://cs-people.bu.edu/papon/pdfs/2021_TIP_MA_Damon.pdf){:target="_blank"}, *DaMoN*, 2021
 
 Fri, Nov 15
-: **Class 21:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
-    : 
+: **Class 20:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
+    : __[P]__ ["Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine"](https://chatterjeesubarna.github.io/files/cosine.pdf){:target="_blank"}, *VLDB*, 2022 <br> 
+[B] ["Design Continuums and the Path Toward Self-Designing Key-Value Stores that Know and Learn"](https://www.cidrdb.org/cidr2019/papers/p143-idreos-cidr19.pdf){:target="_blank"}, *CIDR*, 2019
 
 Tue, Nov 19
-: **Class 22:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
-    : 
+: **Class 21:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
+    : ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018 <br> 
+    [__Technical Question 7__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[TBD.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
 
 Fri, Nov 22
-: **Class 23:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}
-    : 
+: **Class 22:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}
+    : TBD
 
 Tue, Nov 26
-: **Class 24:** Data Structures in Databases <br> __Student Presentation - 5__{: .label .label-student-presentation} 
+: **Class 23:** Data Structures in Databases <br> __Student Presentation - 5__{: .label .label-student-presentation} 
+    : ["The Data Calculator: Data Structure Design and Cost Synthesis from First Principles and Learned Cost Models"](https://dl.acm.org/doi/pdf/10.1145/3183713.3199671){:target="_blank"}, *SIGMOD*, 2018 <br> 
+    [__Technical Question 8__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[TBD.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
 
 Fri, Nov 29
 : **Thanksgiving Holiday -- No Class**{: .label .label-grey}
