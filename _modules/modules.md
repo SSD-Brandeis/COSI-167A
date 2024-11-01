@@ -117,17 +117,19 @@ Fri, Nov 15
 
 Tue, Nov 19
 : **Class 21:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
-    : ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018 <br> 
+    : __[P]__  ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018 <br> 
     [__Technical Question 7__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[TBD.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
 
 Fri, Nov 22
 : **Class 22:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}
-    : TBD
+    : __[P]__  ["Relational Memory: Native In-Memory Accesses on Rows and Columns"](https://openproceedings.org/2023/conf/edbt/paper-177.pdf){:target="_blank"}, *EDBT*, 2023 <br> 
+[B] ["Relational Fabric: Transparent Data Transformation"](https://cs-people.bu.edu/mathan/publications/icde23-vision.pdf){:target="_blank"}, *ICDE*, 2023
 
 Tue, Nov 26
 : **Class 23:** Data Structures in Databases <br> __Student Presentation - 5__{: .label .label-student-presentation} 
-    : ["The Data Calculator: Data Structure Design and Cost Synthesis from First Principles and Learned Cost Models"](https://dl.acm.org/doi/pdf/10.1145/3183713.3199671){:target="_blank"}, *SIGMOD*, 2018 <br> 
+    : __[P]__  ["The Data Calculator: Data Structure Design and Cost Synthesis from First Principles and Learned Cost Models"](https://dl.acm.org/doi/pdf/10.1145/3183713.3199671){:target="_blank"}, *SIGMOD*, 2018 <br> 
     [__Technical Question 8__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[TBD.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
+[B] ["The Periodic Table of Data Structures"](https://stratos.seas.harvard.edu/sites/scholar.harvard.edu/files/stratos/files/periodictabledatastructures.pdf){:target="_blank"}, *DEBull*, 2018
 
 Fri, Nov 29
 : **Thanksgiving Holiday -- No Class**{: .label .label-grey}
