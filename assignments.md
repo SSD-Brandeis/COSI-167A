@@ -36,7 +36,7 @@ banner_description: ""
             <td><a href="#" target="_blank"></a></td>
             </tr> -->
             <tr>
-            <td><a href="#" target="_blank"><b>Class Project</b> -- Mid-semester Report</a></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5259484" target="_blank"><b>Class Project</b> -- Mid-semester Report</a></td>
             <td>Nov 8, 11:59 PM</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
