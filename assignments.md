@@ -26,9 +26,9 @@ banner_description: ""
             <td><a href="/COSI-167A/assets/projects/Project 1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/828851/assignments/5066448/" target="_blank"><b>Class Project</b> -- Proposal</a><sup>&#9733;</sup></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5066448/" target="_blank"><b>Class Project</b> -- Proposal</a><sup>&#9734;</sup></td>
             <td>Oct 8, 11:59 PM</td>
-            <td rowspan="4"><a href="https://www.overleaf.com/read/wjctkzysjmsb#10f4c0" target="_blank">Report Template</a><sup>&#9733;</sup></td>
+            <td rowspan="4"><a href="https://www.overleaf.com/read/wjctkzysjmsb#10f4c0" target="_blank">Report Template</a><sup>&#9734;</sup></td>
             </tr>
             <!-- <tr>
             <td><a href="#" target="_blank">Project Proposal</a></td>
@@ -36,17 +36,17 @@ banner_description: ""
             <td><a href="#" target="_blank"></a></td>
             </tr> -->
             <tr>
-            <td><a href="https://www.gradescope.com/courses/828851/assignments/5259484" target="_blank"><b>Class Project</b> -- Mid-semester Report</a><sup>&#9733;</sup></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5259484" target="_blank"><b>Class Project</b> -- Mid-semester Report</a><sup>&#9734;</sup></td>
             <td>Nov 8, 11:59 PM</td>
             <!-- <td><a href="#" target="_blank"></a></td> -->
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/828851/assignments/5262031" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a><sup>&#9733;</sup></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5262031" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a><sup>&#9734;</sup></td>
             <td>Dec 3, 11:59 PM</td>
             <!-- <td><a href="#" target="_blank"></a></td> -->
             </tr>
             <tr>
-            <td><a href="https://www.gradescope.com/courses/828851/assignments/5262032" target="_blank"><b>Class Project</b> -- Final Project Report</a><sup>&#9733;</sup></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5262032" target="_blank"><b>Class Project</b> -- Final Project Report</a><sup>&#9734;</sup></td>
             <td>Dec 10, 11:59 PM</td>
             <!-- <td><a href="#" target="_blank"></a></td> -->
             </tr>
@@ -54,7 +54,7 @@ banner_description: ""
         </table>
         <div style="margin-left: 20px;">
             <blockquote style="font-style: italic; text-align: right;">
-                <sup>&#9733;</sup> Report template is the same for all projects
+                <sup>&#9734;</sup> Report template is the same for all projects
             </blockquote>
         </div>
         <h3><strong>Project 1</strong></h3>
