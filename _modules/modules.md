@@ -118,7 +118,7 @@ Fri, Nov 15
 Tue, Nov 19
 : **Class 21:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
     : __[P]__  ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018 <br> 
-    [__Technical Question 7__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[TBD.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
+    [__Technical Question 7__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[How does FASTER manage data between the "hot" in-memory section and the "cold" disk-resident section? What criteria determine when data is moved between these sections?](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
 
 Fri, Nov 22
 : **Class 22:** Relational Memory <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Prof. Ju Hyoung Mun__](https://sites.google.com/view/juhyoungmun/){:target="_blank"}{: .label .label-guest-name}

@@ -41,12 +41,12 @@ banner_description: ""
             <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
-            <td><a href="#" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5262031" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a></td>
             <td>Dec 3, 11:59 PM</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
             <tr>
-            <td><a href="#" target="_blank"><b>Class Project</b> -- Final Project Report</a></td>
+            <td><a href="https://www.gradescope.com/courses/828851/assignments/5262032" target="_blank"><b>Class Project</b> -- Final Project Report</a></td>
             <td>Dec 10, 11:59 PM</td>
             <td><a href="#" target="_blank"></a></td>
             </tr>
