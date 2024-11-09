@@ -89,19 +89,19 @@ Tue, Oct 29
     : __[P]__ ["The Adaptive Radix Tree: ARTful Indexing for Main-Memory Databases"](https://db.in.tum.de/~leis/papers/ART.pdf){:target="_blank"}, *ICDE*, 2013 <br> [__Review Paper 2__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5182321/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br> 
 
 Fri, Nov 1
-: **Class 16:** Adaptive Indexing & Cracking <br> __Student Presentation - 3__{: .label .label-student-presentation} 
+: **Class 16:** Adaptive Indexing & Cracking <br> __Student Presentation - 3__{: .label .label-student-presentation}  <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class16.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Adaptive Adaptive Indexing"](https://bigdata.uni-saarland.de/publications/Adaptive_Adaptive_Indexing_ICDE18.pdf){:target="_blank"}, *ICDE*, 2018 <br> 
 [B] ["Self-organizing Tuple Reconstruction in Column-stores"](https://scholar.harvard.edu/files/IKM_SIGMOD09.pdf){:target="_blank"}, *SIGMOD*, 2009
 
 Tue, Nov 5
-: **Class 17:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}
+: **Class 17:** Sortedness-Aware Indexing <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Aneesh Raman__](https://ramananeesh.github.io/){:target="_blank"}{: .label .label-guest-name}  <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class17.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Indexing for Near-Sorted Data"](https://cs-people.bu.edu/mathan/publications/icde23-raman.pdf){:target="_blank"}, *ICDE*, 2023 
     <br> [__Review Paper 3__{: .label .label-yellow}](https://www.gradescope.com/courses/828851/assignments/5253698/){:target="_blank"} <b> <span style="color:#6e01fa"></span> </b><br>
 [B] ["BoDS: A Benchmark on Data Sortedness"](https://cs-people.bu.edu/mathan/publications/tpctc22-raman.pdf){:target="_blank"}, *TPCTC*, 2022
 
 
 Fri, Nov 8
-: **Class 18:** Modern Hardware Trends
+: **Class 18:** Modern Hardware Trends <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class18.pdf" target="_blank"><span class="slides-icon"></span></a>
     : 
 
 Tue, Nov 12
