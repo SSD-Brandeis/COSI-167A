@@ -105,19 +105,19 @@ Fri, Nov 8
     : 
 
 Tue, Nov 12
-: **Class 19:** Parametric I/O Model <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Tarikul Islam Papon__](https://cs-people.bu.edu/papon/){:target="_blank"}{: .label .label-guest-name}
+: **Class 19:** Parametric I/O Model <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Tarikul Islam Papon__](https://cs-people.bu.edu/papon/){:target="_blank"}{: .label .label-guest-name} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class19.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["ACEing the Bufferpool Management Paradigm for Modern Storage Devices"](https://cs-people.bu.edu/papon/pdfs/icde23-papon.pdf){:target="_blank"}, *ICDE*, 2023 <br> 
     [__Technical Question 6__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"} <b> <span style="color:#6e01fa">[Consider you have three SSDs with the following asymmetry values: (i) α = 2.0, (ii) α = 4.0, (iii) α = 6.0. Your workload contains 50% writes with a predictive pattern. Which device will have the highest speedup after implementing ACE bufferpool and why? Also, will you use any prefetcher? Justify your answer.](https://www.gradescope.com/courses/828851/assignments/5253760/){:target="_blank"}</span> </b><br>
 [B] ["A Parametric I/O Model for Modern Storage Devices"](https://cs-people.bu.edu/papon/pdfs/2021_TIP_MA_Damon.pdf){:target="_blank"}, *DaMoN*, 2021
 
 Fri, Nov 15
-: **Class 20:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name}
+: **Class 20:** Self-Designing Storage Engine <br> __Guest Lecture__{: .label .label-guest-lecture}| [<i class="guest-lecture"></i> __Dr. Subarna Chatterjee__](https://chatterjeesubarna.github.io/){:target="_blank"}{: .label .label-guest-name} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class20.pdf" target="_blank"><span class="slides-icon"></span></a>
     : __[P]__ ["Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine"](https://chatterjeesubarna.github.io/files/cosine.pdf){:target="_blank"}, *VLDB*, 2022 <br> 
 [B] ["Design Continuums and the Path Toward Self-Designing Key-Value Stores that Know and Learn"](https://www.cidrdb.org/cidr2019/papers/p143-idreos-cidr19.pdf){:target="_blank"}, *CIDR*, 2019
 
 Tue, Nov 19
 : **Class 21:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
-    : __[P]__  ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018 <br> 
+    : __[P]__  ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018  <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class21.pdf" target="_blank"><span class="slides-icon"></span></a>
     [__Technical Question 7__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5262026/){:target="_blank"} <b> <span style="color:#6e01fa">[How does FASTER manage data between the "hot" in-memory section and the "cold" disk-resident section? What criteria determine when data is moved between these sections?](https://www.gradescope.com/courses/828851/assignments/5262026/){:target="_blank"}</span> </b><br>
 
 Fri, Nov 22
