@@ -116,8 +116,8 @@ Fri, Nov 15
 [B] ["Design Continuums and the Path Toward Self-Designing Key-Value Stores that Know and Learn"](https://www.cidrdb.org/cidr2019/papers/p143-idreos-cidr19.pdf){:target="_blank"}, *CIDR*, 2019
 
 Tue, Nov 19
-: **Class 21:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} 
-    : __[P]__  ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018  <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class21.pdf" target="_blank"><span class="slides-icon"></span></a>
+: **Class 21:** : HTAP Systems <br> __Student Presentation - 4__{: .label .label-student-presentation} <br><a title="Presentation slides" href="/COSI-167A/assets/slides/COSI167A-Class21.pdf" target="_blank"><span class="slides-icon"></span></a>
+    : __[P]__  ["FASTER: A Concurrent Key-Value Store with In-Place Updates"](https://www.microsoft.com/en-us/research/uploads/prod/2018/03/faster-sigmod18.pdf){:target="_blank"}, *SIGMOD*, 2018  <br>
     [__Technical Question 7__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5262026/){:target="_blank"} <b> <span style="color:#6e01fa">[How does FASTER manage data between the "hot" in-memory section and the "cold" disk-resident section? What criteria determine when data is moved between these sections?](https://www.gradescope.com/courses/828851/assignments/5262026/){:target="_blank"}</span> </b><br>
 
 Fri, Nov 22
@@ -128,7 +128,7 @@ Fri, Nov 22
 Tue, Nov 26
 : **Class 23:** Data Structures in Databases <br> __Student Presentation - 5__{: .label .label-student-presentation} 
     : __[P]__  ["The Data Calculator: Data Structure Design and Cost Synthesis from First Principles and Learned Cost Models"](https://dl.acm.org/doi/pdf/10.1145/3183713.3199671){:target="_blank"}, *SIGMOD*, 2018 <br> 
-    [__Technical Question 8__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5262029/){:target="_blank"} <b> <span style="color:#6e01fa">[TBD.](https://www.gradescope.com/courses/828851/assignments/5262029/){:target="_blank"}</span> </b><br>
+    [__Technical Question 8__{: .label .label-red}](https://www.gradescope.com/courses/828851/assignments/5262029/){:target="_blank"} <b> <span style="color:#6e01fa">[What factors should the Data Calculator consider when synthesizing an optimal data structure for this workload? How would the framework decide between a B-tree and a log-structured merge (LSM) tree?](https://www.gradescope.com/courses/828851/assignments/5262029/){:target="_blank"}</span> </b><br>
 [B] ["The Periodic Table of Data Structures"](https://stratos.seas.harvard.edu/sites/scholar.harvard.edu/files/stratos/files/periodictabledatastructures.pdf){:target="_blank"}, *DEBull*, 2018
 
 Fri, Nov 29
@@ -136,14 +136,14 @@ Fri, Nov 29
     
 
 Tue, Dec 3
-: **Class Project -- Presentations A**{: .label .label-blue}
-    : 
+: **Class Project -- Review**{: .label .label-purple}
+    : Extended office hours to discuss project progress in <b>Volen 259</b>.
 
 Fri, Dec 6
-: **Class Project -- Presentations B**{: .label .label-blue}
-    : 
+: **Class Project -- Presentations**{: .label .label-blue}
+    : Sign up [here](https://docs.google.com/document/d/1hQxNGB-3jyni5zZ-P4D0LLL_ifpXKgRnTukygcS81UE/edit?usp=sharing){:target="_blank"}! <br> <b>Presentation duration:</b> 8 minutes <br> <b>Q&A:</b> 2 minutes
 
 Tue, Dec 10
 : **Class Project -- Code Review**{: .label .label-green}
-    : 
+    : Sign up [here](https://docs.google.com/document/d/1hQxNGB-3jyni5zZ-P4D0LLL_ifpXKgRnTukygcS81UE/edit?usp=sharing){:target="_blank"}! <br> <b>Code Review duration:</b> 10 minutes <br>
 
