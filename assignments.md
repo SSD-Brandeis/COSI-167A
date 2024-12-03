@@ -42,7 +42,7 @@ banner_description: ""
             </tr>
             <tr>
             <td><a href="https://www.gradescope.com/courses/828851/assignments/5262031" target="_blank"><b>Class Project</b> -- Preliminary Project Report</a><sup>&#9734;</sup></td>
-            <td>Dec 3, 11:59 PM</td>
+            <td>Dec 6, 11:59 PM</td>
             <!-- <td><a href="#" target="_blank"></a></td> -->
             </tr>
             <tr>
