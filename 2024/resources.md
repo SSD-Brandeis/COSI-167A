@@ -3,7 +3,7 @@ layout: page
 title: Resources
 nav_order: 2
 description: Advanced Data Systems (COSI 167A)
-banner_image: /COSI-167A/assets/css/resources.jpg
+banner_image: /assets/css/resources.jpg
 banner_heading: "Textbooks"
 banner_description: "Research Papers Galore!"
 ---

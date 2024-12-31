@@ -3,7 +3,7 @@ layout: page
 title: Policies
 nav_order: 3
 description: Advanced Data Systems (COSI 167A)
-banner_image: /COSI-167A/assets/css/policy.jpg
+banner_image: /assets/css/policy.jpg
 banner_heading: "Policies"
 banner_description: ""
 ---

@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Advanced Data Systems (COSI 167A)"
-banner_image: /COSI-167A/assets/css/p2.jpg
+banner_image: /assets/css/p2.jpg
 banner_heading: "Advanced Data Systems"
 banner_description: "COSI 167A"
 permalink: /

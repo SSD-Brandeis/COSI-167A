@@ -3,7 +3,7 @@ layout: page
 title: Projects
 nav_order: 4
 description: Advanced Data Systems (COSI 167A)
-banner_image: /COSI-167A/assets/css/assignment.jpg
+banner_image: /assets/css/assignment.jpg
 banner_heading: "Projects"
 banner_description: ""
 ---
@@ -23,7 +23,7 @@ banner_description: ""
             <tr>
             <td><a href="https://www.gradescope.com/courses/828851/assignments/4897995" target="_blank"><b>Project 1</b></a></td>
             <td>Sep 20, 11:59 PM</td>
-            <td><a href="/COSI-167A/assets/projects/Project 1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
+            <td><a href="{{ site.baseurl }}/assets/projects/Project 1/PA-1.pdf" target="_blank">Project 1 doc</a></td>
             </tr>
             <tr>
             <td><a href="https://www.gradescope.com/courses/828851/assignments/5066448/" target="_blank"><b>Class Project</b> -- Proposal</a><sup>&#9734;</sup></td>
@@ -80,9 +80,9 @@ banner_description: ""
         <br>
         <h2>Projects</h2>
         <ul>
-            <li><a href="/COSI-167A/assets/projects/Class Project/Systems Project/LSMTreeDataStore/LSMTreeDataStore.pdf" target="_blank">Implementing an LSM-Based Key-Value Store</a></li>
+            <li><a href="{{ site.baseurl }}/assets/projects/Class Project/Systems Project/LSMTreeDataStore/LSMTreeDataStore.pdf" target="_blank">Implementing an LSM-Based Key-Value Store</a></li>
             <br><br>
-            <li><a href="/COSI-167A/assets/projects/Class Project/Systems Project/COSI167A-F24-Systems-Implementing-Compaction-Strategies-in-RocksDB.pdf" target="_blank">Implementing Compaction Policies on RocksDB</a></li>
+            <li><a href="{{ site.baseurl }}/assets/projects/Class Project/Systems Project/COSI167A-F24-Systems-Implementing-Compaction-Strategies-in-RocksDB.pdf" target="_blank">Implementing Compaction Policies on RocksDB</a></li>
         </ul>
     </div>
     <div class="programming">
@@ -91,10 +91,10 @@ banner_description: ""
         <br>
         <h2>Subjects</h2>
         <ul>
-            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Optimal-Index-Granularity-in-LSM.pdf" target="_blank">Finding the optimal caching policy in LSM-trees</a></li><br><br>
-            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Range-Deletes-in-LSM.pdf" target="_blank">Implementing Range Deletes in LSM-Trees</a></li><br><br>
-            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Self-Designing-LSM-Buffer.pdf" target="_blank">Self-Designing LSM Memory Buﬀer</a></li><br><br>
-            <li><a href="/COSI-167A/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Time-Traveling-LSM.pdf" target="_blank">Time-Traveling LSM-Engines</a></li><br><br>
+            <li><a href="{{ site.baseurl }}/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Optimal-Index-Granularity-in-LSM.pdf" target="_blank">Finding the optimal caching policy in LSM-trees</a></li><br><br>
+            <li><a href="{{ site.baseurl }}/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Range-Deletes-in-LSM.pdf" target="_blank">Implementing Range Deletes in LSM-Trees</a></li><br><br>
+            <li><a href="{{ site.baseurl }}/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Self-Designing-LSM-Buffer.pdf" target="_blank">Self-Designing LSM Memory Buﬀer</a></li><br><br>
+            <li><a href="{{ site.baseurl }}/assets/projects/Class Project/Research Project/COSI167A-F24-Research-Time-Traveling-LSM.pdf" target="_blank">Time-Traveling LSM-Engines</a></li><br><br>
         </ul>
     </div>
 </div>
