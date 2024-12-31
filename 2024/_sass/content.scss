@@ -261,7 +261,7 @@
   height: 30px;
   margin-top: 6px;
   margin-bottom: -8px;
-  background-image: url('{{ site.baseurl }}/assets/images/teaching.png');
+  background-image: url('{{ "/" | relative_url }}/assets/images/teaching.png');
   background-size: cover;
   display: inline-block;
   background-repeat: no-repeat;
