@@ -261,7 +261,7 @@
   height: 30px;
   margin-top: 6px;
   margin-bottom: -8px;
-  background-image: url('{{ "/" | relative_url }}/assets/images/teaching.png');
+  background-image: url('{{ "assets/images/teaching.png" | relative_url }}');
   background-size: cover;
   display: inline-block;
   background-repeat: no-repeat;
@@ -273,7 +273,7 @@
   height: 35px;
   margin-top: 6px;
   margin-left: 4px;
-  background-image: url('{{ "/" | relative_url }}/assets/images/speaker.png');
+  background-image: url('{{ "/assets/images/speaker.png" | relative_url}}');
   background-size: cover;
   display: inline-block;
   background-repeat: no-repeat;
@@ -285,7 +285,7 @@
   height: 35px;
   margin-top: 6px;
   margin-left: 4px;
-  background-image: url('{{ "/" | relative_url }}/assets/images/video-chat.png');
+  background-image: url('{{ "/assets/images/video-chat.png" | relative_url}}');
   background-size: cover;
   display: inline-block;
   background-repeat: no-repeat;
@@ -296,7 +296,7 @@
   width: 11px;
   height: 11px;
   padding: 2px;
-  background-image: url('{{ "/" | relative_url }}assets/images/guest-lecture.png');
+  background-image: url('{{ "assets/images/guest-lecture.png" | relative_url}}');
   background-size: contain;
   display: inline-block;
   background-repeat: no-repeat;
