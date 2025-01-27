@@ -6,6 +6,7 @@ description: "Advanced Data Systems (COSI 167A)"
 banner_image: /assets/css/p2.jpg
 banner_heading: "Advanced Data Systems"
 banner_description: "COSI 167A"
+season_year: "Fall 2024"
 permalink: /
 ---
 
